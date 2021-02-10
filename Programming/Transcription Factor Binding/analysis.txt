@@ -1,0 +1,26 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (release 20160715)
+Annotation Version and Release Date:	GO Ontology database  Released 2017-02-28
+Analyzed List:	Client Text Box Input (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Bonferroni correction:	true
+Bonferroni count:	8204
+GO biological process complete	Homo sapiens - REFLIST (20972)	Client Text Box Input (174)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (P-value)
+positive regulation of neuron projection development (GO:0010976)	241	12	2.00	+	6.00	8.52E-03
+positive regulation of cell projection organization (GO:0031346)	323	13	2.68	+	4.85	3.06E-02
+positive regulation of neuron differentiation (GO:0045666)	324	13	2.69	+	4.84	3.16E-02
+nervous system development (GO:0007399)	2203	39	18.28	+	2.13	3.33E-02
+regulation of biological quality (GO:0065008)	3510	54	29.12	+	1.85	2.04E-02
+localization (GO:0051179)	5371	75	44.56	+	1.68	3.32E-03
+developmental process (GO:0032502)	5415	74	44.93	+	1.65	1.02E-02
+cellular component organization (GO:0016043)	5278	72	43.79	+	1.64	1.73E-02
+single-organism developmental process (GO:0044767)	5332	72	44.24	+	1.63	2.56E-02
+cellular component organization or biogenesis (GO:0071840)	5493	73	45.57	+	1.60	3.82E-02
+single-organism cellular process (GO:0044763)	9816	113	81.44	+	1.39	9.07E-03
+single-organism process (GO:0044699)	12669	136	105.11	+	1.29	4.08E-03
+cellular process (GO:0009987)	14892	150	123.56	+	1.21	1.48E-02
+Unclassified (UNCLASSIFIED)	3732	14	30.96	-	.45	0.00E00

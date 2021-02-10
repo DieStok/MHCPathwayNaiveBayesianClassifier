@@ -1,0 +1,183 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20171205)
+Annotation Version and Release Date:	GO Ontology database  Released 2018-04-04
+Analyzed List:	upload_1 (Homo sapiens)
+Reference List:	Homo sapiens (all genes in database)
+Test Type:	FISHER
+GO biological process complete	Homo sapiens - REFLIST (21042)	upload_1 (106)	upload_1 (expected)	upload_1 (over/under)	upload_1 (fold Enrichment)	upload_1 (raw P-value)	upload_1 (FDR)
+T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell (GO:0002291)	3	3	.02	+	 > 100	2.42E-06	1.02E-03
+positive regulation of nuclease activity (GO:0032075)	16	4	.08	+	49.63	2.72E-06	1.09E-03
+DNA deamination (GO:0045006)	13	3	.07	+	45.81	6.54E-05	8.64E-03
+regulation of nuclease activity (GO:0032069)	30	4	.15	+	26.47	2.46E-05	4.52E-03
+positive regulation of histone methylation (GO:0031062)	37	4	.19	+	21.46	5.23E-05	7.29E-03
+DNA damage response, detection of DNA damage (GO:0042769)	39	4	.20	+	20.36	6.33E-05	8.51E-03
+positive regulation of type I interferon production (GO:0032481)	75	5	.38	+	13.23	5.13E-05	7.34E-03
+T cell costimulation (GO:0031295)	75	5	.38	+	13.23	5.13E-05	7.28E-03
+lymphocyte costimulation (GO:0031294)	76	5	.38	+	13.06	5.45E-05	7.45E-03
+regulation of B cell proliferation (GO:0030888)	62	4	.31	+	12.81	3.38E-04	3.41E-02
+regulation of histone methylation (GO:0031060)	64	4	.32	+	12.41	3.79E-04	3.75E-02
+I-kappaB kinase/NF-kappaB signaling (GO:0007249)	69	4	.35	+	11.51	4.98E-04	4.62E-02
+positive regulation of NF-kappaB transcription factor activity (GO:0051092)	141	7	.71	+	9.86	9.74E-06	2.53E-03
+regulation of type I interferon production (GO:0032479)	125	6	.63	+	9.53	5.18E-05	7.27E-03
+response to hydrogen peroxide (GO:0042542)	106	5	.53	+	9.36	2.42E-04	2.48E-02
+response to alkaloid (GO:0043279)	108	5	.54	+	9.19	2.63E-04	2.68E-02
+T cell receptor signaling pathway (GO:0050852)	177	8	.89	+	8.97	4.28E-06	1.55E-03
+stimulatory C-type lectin receptor signaling pathway (GO:0002223)	123	5	.62	+	8.07	4.67E-04	4.36E-02
+positive regulation of leukocyte cell-cell adhesion (GO:1903039)	223	9	1.12	+	8.01	2.57E-06	1.06E-03
+innate immune response activating cell surface receptor signaling pathway (GO:0002220)	126	5	.63	+	7.88	5.19E-04	4.76E-02
+lymphocyte activation (GO:0046649)	354	14	1.78	+	7.85	4.54E-09	8.84E-06
+antigen receptor-mediated signaling pathway (GO:0050851)	279	11	1.41	+	7.83	2.34E-07	2.03E-04
+response to interferon-gamma (GO:0034341)	179	7	.90	+	7.76	4.26E-05	6.57E-03
+defense response to virus (GO:0051607)	184	7	.93	+	7.55	5.04E-05	7.27E-03
+positive regulation of T cell activation (GO:0050870)	214	8	1.08	+	7.42	1.62E-05	3.42E-03
+T cell activation (GO:0042110)	221	8	1.11	+	7.19	2.03E-05	3.95E-03
+positive regulation of cell-cell adhesion (GO:0022409)	257	9	1.29	+	6.95	7.81E-06	2.06E-03
+regulation of leukocyte cell-cell adhesion (GO:1903037)	295	10	1.49	+	6.73	3.16E-06	1.20E-03
+response to virus (GO:0009615)	273	9	1.38	+	6.54	1.25E-05	2.86E-03
+regulation of B cell activation (GO:0050864)	190	6	.96	+	6.27	4.64E-04	4.36E-02
+regulation of T cell activation (GO:0050863)	320	10	1.61	+	6.20	6.33E-06	1.79E-03
+positive regulation of lymphocyte activation (GO:0051251)	353	10	1.78	+	5.62	1.45E-05	3.23E-03
+regulation of apoptotic signaling pathway (GO:2001233)	390	11	1.96	+	5.60	5.51E-06	1.62E-03
+positive regulation of DNA binding transcription factor activity (GO:0051091)	251	7	1.26	+	5.54	3.24E-04	3.28E-02
+immune response-regulating cell surface receptor signaling pathway (GO:0002768)	467	13	2.35	+	5.53	8.42E-07	4.69E-04
+immune response-activating cell surface receptor signaling pathway (GO:0002429)	433	12	2.18	+	5.50	2.40E-06	1.04E-03
+leukocyte activation (GO:0045321)	882	24	4.44	+	5.40	1.48E-11	1.16E-07
+immune response-regulating signaling pathway (GO:0002764)	564	15	2.84	+	5.28	1.98E-07	1.93E-04
+regulation of lymphocyte activation (GO:0051249)	491	13	2.47	+	5.26	1.45E-06	7.29E-04
+regulation of cell-cell adhesion (GO:0022407)	381	10	1.92	+	5.21	2.74E-05	4.85E-03
+leukocyte differentiation (GO:0002521)	312	8	1.57	+	5.09	2.10E-04	2.34E-02
+positive regulation of leukocyte activation (GO:0002696)	390	10	1.96	+	5.09	3.32E-05	5.69E-03
+positive regulation of cell adhesion (GO:0045785)	395	10	1.99	+	5.03	3.69E-05	6.12E-03
+positive regulation of cytokine production (GO:0001819)	399	10	2.01	+	4.98	4.01E-05	6.38E-03
+positive regulation of cell activation (GO:0050867)	400	10	2.02	+	4.96	4.09E-05	6.44E-03
+immune response-activating signal transduction (GO:0002757)	529	13	2.66	+	4.88	3.22E-06	1.20E-03
+cell activation (GO:0001775)	1029	25	5.18	+	4.82	5.51E-11	2.86E-07
+viral process (GO:0016032)	662	16	3.33	+	4.80	2.64E-07	2.17E-04
+response to oxidative stress (GO:0006979)	374	9	1.88	+	4.78	1.34E-04	1.64E-02
+response to steroid hormone (GO:0048545)	337	8	1.70	+	4.71	3.48E-04	3.48E-02
+regulation of leukocyte activation (GO:0002694)	559	13	2.82	+	4.62	5.78E-06	1.67E-03
+regulation of innate immune response (GO:0045088)	433	10	2.18	+	4.58	7.80E-05	9.89E-03
+myeloid leukocyte activation (GO:0002274)	566	13	2.85	+	4.56	6.58E-06	1.83E-03
+regulation of immune response (GO:0050776)	1092	25	5.50	+	4.54	1.88E-10	5.85E-07
+innate immune response (GO:0045087)	765	17	3.85	+	4.41	3.41E-07	2.53E-04
+activation of immune response (GO:0002253)	593	13	2.99	+	4.35	1.07E-05	2.57E-03
+regulation of cell activation (GO:0050865)	594	13	2.99	+	4.34	1.09E-05	2.58E-03
+leukocyte degranulation (GO:0043299)	505	11	2.54	+	4.32	5.65E-05	7.66E-03
+symbiont process (GO:0044403)	737	16	3.71	+	4.31	1.06E-06	5.50E-04
+leukocyte activation involved in immune response (GO:0002366)	607	13	3.06	+	4.25	1.36E-05	3.08E-03
+myeloid cell activation involved in immune response (GO:0002275)	515	11	2.59	+	4.24	6.70E-05	8.79E-03
+myeloid leukocyte mediated immunity (GO:0002444)	517	11	2.60	+	4.22	6.93E-05	9.01E-03
+cell activation involved in immune response (GO:0002263)	611	13	3.08	+	4.22	1.46E-05	3.21E-03
+positive regulation of apoptotic process (GO:0043065)	613	13	3.09	+	4.21	1.51E-05	3.23E-03
+positive regulation of programmed cell death (GO:0043068)	619	13	3.12	+	4.17	1.67E-05	3.47E-03
+neutrophil degranulation (GO:0043312)	483	10	2.43	+	4.11	1.87E-04	2.21E-02
+inflammatory response (GO:0006954)	485	10	2.44	+	4.09	1.93E-04	2.23E-02
+neutrophil activation involved in immune response (GO:0002283)	487	10	2.45	+	4.08	1.99E-04	2.25E-02
+interspecies interaction between organisms (GO:0044419)	780	16	3.93	+	4.07	2.18E-06	9.98E-04
+positive regulation of immune response (GO:0050778)	783	16	3.94	+	4.06	2.28E-06	1.02E-03
+response to organic cyclic compound (GO:0014070)	888	18	4.47	+	4.02	5.50E-07	3.58E-04
+immune effector process (GO:0002252)	1038	21	5.23	+	4.02	5.53E-08	6.64E-05
+neutrophil activation (GO:0042119)	495	10	2.49	+	4.01	2.26E-04	2.45E-02
+regulation of cytokine production (GO:0001817)	644	13	3.24	+	4.01	2.50E-05	4.54E-03
+neutrophil mediated immunity (GO:0002446)	496	10	2.50	+	4.00	2.30E-04	2.48E-02
+granulocyte activation (GO:0036230)	499	10	2.51	+	3.98	2.41E-04	2.49E-02
+immune system development (GO:0002520)	607	12	3.06	+	3.92	6.38E-05	8.50E-03
+positive regulation of hydrolase activity (GO:0051345)	760	15	3.83	+	3.92	7.36E-06	1.98E-03
+response to drug (GO:0042493)	922	18	4.64	+	3.88	9.36E-07	5.03E-04
+positive regulation of cell death (GO:0010942)	668	13	3.37	+	3.86	3.63E-05	6.16E-03
+hematopoietic or lymphoid organ development (GO:0048534)	575	11	2.90	+	3.80	1.73E-04	2.06E-02
+cell proliferation (GO:0008283)	685	13	3.45	+	3.77	4.67E-05	6.82E-03
+hemopoiesis (GO:0030097)	529	10	2.66	+	3.75	3.80E-04	3.72E-02
+regulation of cell adhesion (GO:0030155)	643	12	3.24	+	3.70	1.09E-04	1.35E-02
+regulation of immune system process (GO:0002682)	1584	29	7.98	+	3.63	8.44E-10	2.19E-06
+response to other organism (GO:0051707)	881	16	4.44	+	3.61	9.88E-06	2.53E-03
+response to external biotic stimulus (GO:0043207)	883	16	4.45	+	3.60	1.02E-05	2.52E-03
+positive regulation of cell proliferation (GO:0008284)	886	16	4.46	+	3.58	1.06E-05	2.58E-03
+immune response (GO:0006955)	1803	32	9.08	+	3.52	1.85E-10	7.21E-07
+positive regulation of immune system process (GO:0002684)	1073	19	5.41	+	3.52	1.87E-06	9.11E-04
+leukocyte mediated immunity (GO:0002443)	745	13	3.75	+	3.46	1.07E-04	1.34E-02
+response to biotic stimulus (GO:0009607)	921	16	4.64	+	3.45	1.69E-05	3.48E-03
+defense response (GO:0006952)	1325	23	6.67	+	3.45	1.77E-07	1.84E-04
+regulated exocytosis (GO:0045055)	700	12	3.53	+	3.40	2.36E-04	2.45E-02
+response to cytokine (GO:0034097)	1069	18	5.39	+	3.34	7.18E-06	1.97E-03
+response to lipid (GO:0033993)	848	14	4.27	+	3.28	1.02E-04	1.28E-02
+regulation of apoptotic process (GO:0042981)	1544	25	7.78	+	3.21	1.71E-07	1.90E-04
+immune system process (GO:0002376)	2670	43	13.45	+	3.20	7.93E-13	1.24E-08
+regulation of cell death (GO:0010941)	1678	27	8.45	+	3.19	5.45E-08	7.08E-05
+regulation of programmed cell death (GO:0043067)	1558	25	7.85	+	3.19	2.02E-07	1.85E-04
+negative regulation of apoptotic process (GO:0043066)	901	14	4.54	+	3.08	1.90E-04	2.23E-02
+response to hormone (GO:0009725)	903	14	4.55	+	3.08	1.95E-04	2.23E-02
+response to organonitrogen compound (GO:0010243)	904	14	4.55	+	3.07	1.97E-04	2.24E-02
+apoptotic process (GO:0006915)	910	14	4.58	+	3.05	2.10E-04	2.33E-02
+negative regulation of programmed cell death (GO:0043069)	914	14	4.60	+	3.04	2.20E-04	2.42E-02
+cellular response to cytokine stimulus (GO:0071345)	987	15	4.97	+	3.02	1.40E-04	1.71E-02
+negative regulation of cell death (GO:0060548)	992	15	5.00	+	3.00	1.48E-04	1.79E-02
+positive regulation of molecular function (GO:0044093)	1754	26	8.84	+	2.94	4.96E-07	3.52E-04
+response to nitrogen compound (GO:1901698)	1021	15	5.14	+	2.92	2.01E-04	2.26E-02
+secretion (GO:0046903)	1110	16	5.59	+	2.86	1.50E-04	1.80E-02
+regulation of cell proliferation (GO:0042127)	1599	23	8.06	+	2.86	4.33E-06	1.47E-03
+intracellular signal transduction (GO:0035556)	1689	24	8.51	+	2.82	3.15E-06	1.23E-03
+secretion by cell (GO:0032940)	997	14	5.02	+	2.79	5.21E-04	4.75E-02
+positive regulation of catalytic activity (GO:0043085)	1431	20	7.21	+	2.77	3.08E-05	5.40E-03
+positive regulation of signal transduction (GO:0009967)	1582	22	7.97	+	2.76	1.24E-05	2.88E-03
+positive regulation of cell communication (GO:0010647)	1728	24	8.70	+	2.76	4.64E-06	1.51E-03
+positive regulation of signaling (GO:0023056)	1735	24	8.74	+	2.75	4.97E-06	1.58E-03
+response to oxygen-containing compound (GO:1901700)	1488	20	7.50	+	2.67	5.30E-05	7.32E-03
+regulation of hydrolase activity (GO:0051336)	1277	17	6.43	+	2.64	2.33E-04	2.48E-02
+positive regulation of response to stimulus (GO:0048584)	2293	30	11.55	+	2.60	7.27E-07	4.20E-04
+multi-organism process (GO:0051704)	2402	31	12.10	+	2.56	5.96E-07	3.58E-04
+response to stress (GO:0006950)	3456	43	17.41	+	2.47	3.39E-09	7.55E-06
+response to external stimulus (GO:0009605)	1959	24	9.87	+	2.43	3.67E-05	6.15E-03
+regulation of response to stress (GO:0080134)	1481	18	7.46	+	2.41	4.47E-04	4.31E-02
+response to organic substance (GO:0010033)	2915	35	14.68	+	2.38	5.86E-07	3.65E-04
+positive regulation of macromolecule biosynthetic process (GO:0010557)	1711	20	8.62	+	2.32	4.56E-04	4.36E-02
+regulation of intracellular signal transduction (GO:1902531)	1897	22	9.56	+	2.30	2.23E-04	2.43E-02
+positive regulation of cellular biosynthetic process (GO:0031328)	1823	21	9.18	+	2.29	3.49E-04	3.47E-02
+cell surface receptor signaling pathway (GO:0007166)	2432	28	12.25	+	2.29	2.34E-05	4.34E-03
+positive regulation of biosynthetic process (GO:0009891)	1851	21	9.32	+	2.25	4.06E-04	3.95E-02
+regulation of cellular component organization (GO:0051128)	2383	27	12.00	+	2.25	4.42E-05	6.76E-03
+cellular response to organic substance (GO:0071310)	2310	26	11.64	+	2.23	7.12E-05	9.18E-03
+cellular response to chemical stimulus (GO:0070887)	2799	31	14.10	+	2.20	1.85E-05	3.74E-03
+positive regulation of nitrogen compound metabolic process (GO:0051173)	2976	32	14.99	+	2.13	1.96E-05	3.88E-03
+regulation of response to stimulus (GO:0048583)	4250	45	21.41	+	2.10	2.98E-07	2.32E-04
+positive regulation of cellular process (GO:0048522)	5091	53	25.65	+	2.07	1.01E-08	1.44E-05
+positive regulation of cellular metabolic process (GO:0031325)	3083	32	15.53	+	2.06	4.50E-05	6.75E-03
+positive regulation of macromolecule metabolic process (GO:0010604)	3085	32	15.54	+	2.06	4.54E-05	6.75E-03
+regulation of signal transduction (GO:0009966)	3216	33	16.20	+	2.04	3.74E-05	6.14E-03
+regulation of cell communication (GO:0010646)	3524	36	17.75	+	2.03	1.93E-05	3.86E-03
+negative regulation of macromolecule metabolic process (GO:0010605)	2554	26	12.87	+	2.02	4.61E-04	4.36E-02
+regulation of signaling (GO:0023051)	3577	36	18.02	+	2.00	2.32E-05	4.36E-03
+regulation of cellular protein metabolic process (GO:0032268)	2601	26	13.10	+	1.98	5.46E-04	4.95E-02
+positive regulation of biological process (GO:0048518)	5736	57	28.90	+	1.97	9.91E-09	1.55E-05
+positive regulation of metabolic process (GO:0009893)	3309	32	16.67	+	1.92	2.35E-04	2.47E-02
+negative regulation of biological process (GO:0048519)	5079	48	25.59	+	1.88	2.07E-06	9.77E-04
+response to chemical (GO:0042221)	4345	41	21.89	+	1.87	3.09E-05	5.36E-03
+negative regulation of cellular process (GO:0048523)	4576	43	23.05	+	1.87	1.49E-05	3.22E-03
+regulation of biological quality (GO:0065008)	3779	35	19.04	+	1.84	1.92E-04	2.23E-02
+signal transduction (GO:0007165)	5193	48	26.16	+	1.83	4.29E-06	1.52E-03
+transport (GO:0006810)	4446	41	22.40	+	1.83	3.90E-05	6.27E-03
+establishment of localization (GO:0051234)	4559	41	22.97	+	1.79	7.63E-05	9.75E-03
+cellular response to stimulus (GO:0051716)	6688	59	33.69	+	1.75	5.24E-07	3.56E-04
+signaling (GO:0023052)	5592	49	28.17	+	1.74	2.06E-05	3.97E-03
+localization (GO:0051179)	5600	49	28.21	+	1.74	2.08E-05	3.95E-03
+regulation of nucleobase-containing compound metabolic process (GO:0019219)	4353	38	21.93	+	1.73	4.12E-04	3.99E-02
+cell communication (GO:0007154)	5692	49	28.67	+	1.71	2.52E-05	4.51E-03
+response to stimulus (GO:0050896)	8370	72	42.16	+	1.71	6.27E-09	1.09E-05
+regulation of nitrogen compound metabolic process (GO:0051171)	6116	51	30.81	+	1.66	3.80E-05	6.18E-03
+regulation of primary metabolic process (GO:0080090)	6283	52	31.65	+	1.64	4.18E-05	6.52E-03
+regulation of macromolecule metabolic process (GO:0060255)	6316	52	31.82	+	1.63	4.44E-05	6.73E-03
+regulation of cellular metabolic process (GO:0031323)	6337	52	31.92	+	1.63	4.66E-05	6.86E-03
+cellular component organization or biogenesis (GO:0071840)	5795	46	29.19	+	1.58	4.56E-04	4.34E-02
+regulation of metabolic process (GO:0019222)	6818	53	34.35	+	1.54	2.33E-04	2.49E-02
+cellular macromolecule metabolic process (GO:0044260)	6701	52	33.76	+	1.54	2.35E-04	2.46E-02
+regulation of cellular process (GO:0050794)	11035	79	55.59	+	1.42	5.20E-06	1.62E-03
+nitrogen compound metabolic process (GO:0006807)	8739	62	44.02	+	1.41	5.03E-04	4.64E-02
+regulation of biological process (GO:0050789)	11674	82	58.81	+	1.39	4.64E-06	1.54E-03
+biological regulation (GO:0065007)	12292	84	61.92	+	1.36	1.01E-05	2.55E-03
+cellular process (GO:0009987)	15437	97	77.76	+	1.25	4.31E-06	1.50E-03
+biological_process (GO:0008150)	17748	104	89.41	+	1.16	5.45E-06	1.63E-03
+Unclassified (UNCLASSIFIED)	3294	2	16.59	-	.12	5.45E-06	1.67E-03

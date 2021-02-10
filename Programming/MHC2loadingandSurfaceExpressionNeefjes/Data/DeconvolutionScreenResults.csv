@@ -1,0 +1,277 @@
+Accession #,L243-Cy3,# duplex,CLIP-Cy5,# duplex,Localization,Function
+NM_001004053,-,0,CLIP up,2,unknown,other
+NM_138289,-,0,CLIP up,3,unknown,other
+NM_024884,-,0,CLIP up,2,cytoplasm,other
+NM_025143,-,0,CLIP up,2,unknown,unknown
+NM_033387,-,0,CLIP up,2,unknown,other
+NM_021006,-,0,CLIP up,2,extracellularSpace,cytokine
+NM_031443,-,0,CLIP up,2,cytoplasm,other
+NM_014515,-,0,CLIP up,2,nucleus,transcriptionregulator
+NM_022779,-,0,CLIP up,3,unknown,other
+XM_095168,-,0,CLIP up,2,nucleus,other
+NM_020177,-,0,CLIP up,2,nucleus,transcriptionregulator
+NM_018035,-,0,CLIP up,2,unknown,other
+NM_018155,-,0,CLIP up,2,unknown,transporter
+NM_032175,L243 up,1,CLIP up,2,nucleus,other
+NM_025108,-,0,CLIP up,2,unknown,other
+NM_032786,-,0,CLIP up,2,unknown,other
+NM_207423,-,0,CLIP up,2,unknown,other
+NM_001456,-,0,CLIP up,2,cytoplasm,other
+NM_032664,-,0,CLIP up,3,cytoplasm,enzyme
+NM_002118,-,0,CLIP up,3,plasmaMembrane,transmembranereceptor
+NM_182710,-,0,CLIP up,3,nucleus,transcriptionregulator
+NM_019610,-,0,CLIP up,2,unknown,enzyme
+NM_004981,-,0,CLIP up,2,plasmaMembrane,ionchannel
+XM_034262,-,0,CLIP up,2,unknown,other
+NM_023070,-,0,CLIP up,2,nucleus,other
+NM_020904,-,0,CLIP up,2,cytoplasm,other
+NM_002676,-,0,CLIP up,3,cytoplasm,enzyme
+NM_002692,-,0,CLIP up,2,nucleus,enzyme
+NM_022156,-,0,CLIP up,2,unknown,other
+NM_014402,-,0,CLIP up,4,cytoplasm,enzyme
+NM_031430,L243 up,1,CLIP up,2,nucleus,other
+XM_290732,-,0,CLIP up,2,unknown,other
+NM_032015,-,0,CLIP up,2,unknown,other
+NM_017827,-,0,CLIP up,2,cytoplasm,enzyme
+NM_003040,-,0,CLIP up,3,plasmaMembrane,transporter
+NM_139162,-,0,CLIP up,2,unknown,other
+NM_003153,L243 up,1,CLIP up,2,nucleus,transcriptionregulator
+NM_024682,-,0,CLIP up,3,unknown,other
+NM_000461,-,0,CLIP up,2,nucleus,ligand-dependentnuclearreceptor
+NM_015913,-,0,CLIP up,2,cytoplasm,enzyme
+XM_046911,-,0,CLIP up,2,unknown,other
+NM_006973,-,0,CLIP up,2,nucleus,other
+NM_014347,-,0,CLIP up,3,nucleus,other
+NM_024762,-,0,CLIP up,2,unknown,other
+NM_138393,L243 down,2,CLIP down,1,plasmaMembrane,other
+NM_024531,L243 down,2,-,0,unknown,other
+NM_022762,L243 down,#4*,-,1,unknown,other
+NM_173543,L243 down,2,CLIP up,1,unknown,other
+NM_006143,L243 down,2,-,0,plasmaMembrane,G-proteincoupledreceptor
+NM_019111,L243 down,4,CLIP down,1,plasmaMembrane,transmembranereceptor
+NM_021983,L243 down,4,CLIP down,1,plasmaMembrane,transmembranereceptor
+NM_020314,L243 down,3,-,0,unknown,other
+NM_000246,L243 down,4,-,0,nucleus,transcriptionregulator
+NM_032206,L243 down,2,CLIP up,1,unknown,other
+NM_001004067,L243 down,3,-,0,unknown,other
+NM_018245,L243 down,2,-,0,unknown,enzyme
+NM_032214,L243 down,2,-,0,plasmaMembrane,other
+NM_006934,L243 down,2,CLIP up,1,plasmaMembrane,transporter
+NM_003116,L243 down,2,CLIP up,1,cytoplasm,other
+NM_003136,L243 down,2,-,0,cytoplasm,other
+NM_032389,L243 down,2,-,0,unknown,GAp
+NM_001396,L243 down,2,CLIP down,2,nucleus,kinase
+NM_139247,L243 up,2,CLIP up,1,plasmaMembrane,enzyme
+NM_001148,L243 up,2,-,0,plasmaMembrane,other
+NM_001654,L243 up,2,CLIP up,1,cytoplasm,kinase
+NM_001172,L243 up,2,CLIP up,1,cytoplasm,enzyme
+NM_006628,L243 up,3,-,0,cytoplasm,transporter
+NM_031916,L243 up,3,-,0,unknown,unknown
+XM_167709,L243 up,2,-,0,unknown,other
+NM_014145,L243 up,2,-,0,unknown,other
+NM_015864,L243 up,2,CLIP up,1,unknown,other
+NM_001274,L243 up,2,CLIP up,1,nucleus,kinase
+NM_001277,L243 up,2,-,0,cytoplasm,kinase
+NM_000749,L243 up,3,CLIp down,1,plasmaMembrane,transmembranereceptor
+NM_001292,L243 up,3,CLIP up,1,nucleus,kinase
+NM_001867,L243 up,3,CLIP up,1,cytoplasm,enzyme
+NM_001885,L243 up,3,CLIP up,1,nucleus,other
+NM_001337,L243 up,3,CLIP up,1,plasmaMembrane,G-proteincoupledreceptor
+NM_004632,L243 up,4,CLIP up,1,cytoplasm,other
+NM_012137,L243 up,2,CLIP up,1,cytoplasm,enzyme
+NM_022719,L243 up,3,CLIP up,1,nucleus,other
+NM_015607,L243 up,2,-,0,nucleus,other
+NM_024329,L243 up,2,CLIP up,1,unknown,other
+NM_001416,L243 up,2,-,0,cytoplasm,translationregulator
+NM_002013,L243 up,2,CLIP up,1,nucleus,enzyme
+NM_025047,L243 up,2,CLIP up,1,unknown,other
+NM_024640,L243 up,3,-,0,unknown,other
+NM_005512,L243 up,2,CLIP up,1,plasmaMembrane,other
+NM_007353,L243 up,3,CLIP up,1,plasmaMembrane,enzyme
+NM_022130,L243 up,2,-,0,cytoplasm,other
+NM_033050,L243 up,2,CLIP up,1,plasmaMembrane,G-proteincoupledreceptor
+NM_031288,L243 up,2,-,0,nucleus,other
+NM_002137,L243 up,2,-,0,nucleus,other
+NM_014002,L243 up,2,CLIP up,1,cytoplasm,kinase
+NM_001558,L243 up,3,CLIP up,1,plasmaMembrane,transmembranereceptor
+NM_016584,L243 up,2,-,0,extracellularSpace,cytokine
+NM_004843,L243 up,4,-,0,plasmaMembrane,transmembranereceptor
+NM_004763,L243 up,2,-,0,plasmaMembrane,other
+XM_376830,L243 up,4,CLIP up,1,unknown,other
+NM_015179,L243 up,2,-,0,nucleus,other
+NM_030645,L243 up,3,CLIP up,1,unknown,other
+NM_012314,L243 up,4,CLIP up,1,plasmaMembrane,other
+NM_002277,L243 up,3,-,0,cytoplasm,other
+NM_006457,L243 up,2,-,0,cytoplasm,other
+NM_006150,L243 up,2,-,0,unknown,other
+XM_372035,L243 up,2,CLIP up,1,unknown,other
+NM_022090,L243 up,2,CLIP up,1,unknown,other
+NM_002756,L243 up,4,-,0,cytoplasm,kinase
+NM_002446,L243 up,3,CLIP down,1,cytoplasm,kinase
+NM_005204,L243 up,2,CLIP up,1,cytoplasm,kinase
+NM_022168,L243 up,2,CLIP up,1,nucleus,enzyme
+NM_173822,L243 up,3,-,0,unknown,other
+NM_014180,L243 up,2,-,0,unknown,other
+NM_002447,L243 up,2,-,0,plasmaMembrane,kinase
+NM_005952,L243 up,3,CLIP up,1,unknown,other
+NM_004541,L243 up,2,CLIP up,1,cytoplasm,enzyme
+NM_005000,L243 up,2,CLIP up,1,cytoplasm,enzyme
+NM_002494,L243 up,2,CLIP up,1,cytoplasm,enzyme
+NM_005793,L243 up,3,CLIP up,1,extracellularSpace,kinase
+NM_007363,L243 up,3,-,0,nucleus,other
+NM_006186,L243 up,2,-,0,nucleus,ligand-dependentnuclearreceptor
+NM_004154,L243 up,3,CLIP up,1,plasmaMembrane,G-proteincoupledreceptor
+NM_003466,L243 up,2,CLIP up,1,nucleus,transcriptionregulator
+NM_014143,L243 up,2,CLIP up,1,plasmaMembrane,other
+NM_005707,L243 up,2,-,0,nucleus,other
+NM_017929,L243 up,2,CLIP up,1,cytoplasm,other
+NM_005027,L243 up,2,-,0,cytoplasm,kinase
+NM_014602,L243 up,2,CLIP down,1,cytoplasm,kinase
+NM_002652,L243 up,2,-,0,extracellularSpace,other
+NM_003557,L243 up,2,CLIP up,1,cytoplasm,kinase
+NM_002654,L243 up,3,-,0,cytoplasm,kinase
+NM_016457,L243 up,2,CLIP up,1,cytoplasm,kinase
+NM_002794,L243 up,2,CLIP up,1,cytoplasm,peptidase
+NM_020765,L243 up,4,CLIP up,1,nucleus,other
+NM_014478,L243 up,2,-,0,plasmaMembrane,G-proteincoupledreceptor
+NM_025234,L243 up,2,CLIP up,1,unknown,other
+NM_006871,L243 up,2,CLIP up,1,plasmaMembrane,kinase
+NM_004850,L243 up,2,CLIP up,1,cytoplasm,kinase
+NM_017793,L243 up,2,-,0,nucleus,other
+NM_003930,L243 up,2,CLIP down,1,plasmaMembrane,kinase
+NM_014385,L243 up,2,-,0,plasmaMembrane,other
+NM_006748,L243 up,4,CLIP up,1,plasmaMembrane,other
+NM_003951,L243 up,2,CLIP up,1,cytoplasm,transporter
+NM_025163,L243 up,2,CLIP up,1,cytoplasm,enzyme
+NM_173575,L243 up,2,-,0,unknown,kinase
+NM_005819,L243 up,2,CLIP up,1,cytoplasm,transporter
+NM_003177,L243 up,3,-,0,cytoplasm,kinase
+NM_019599,L243 up,3,CLIP up,1,plasmaMembrane,G-proteincoupledreceptor
+XM_370754,L243 up,2,CLIP up,1,cytoplasm,phosphatase
+NM_003271,L243 up,3,-,0,plasmaMembrane,other
+NM_003820,L243 up,3,-,0,plasmaMembrane,transmembranereceptor
+XM_039796,L243 up,2,-,0,cytoplasm,kinase
+NM_033396,L243 up,2,CLIP up,1,nucleus,other
+NM_015575,L243 up,3,CLIP up,1,unknown,other
+NM_016292,L243 up,3,CLIP up,1,cytoplasm,enzyme
+NM_006073,L243 up,2,-,0,cytoplasm,other
+NM_014640,L243 up,2,-,0,unknown,enzyme
+NM_024023,L243 up,2,CLIP up,1,unknown,unknown
+NM_022170,L243 up,2,CLIP up,1,cytoplasm,translationregulator
+NM_014023,L243 up,3,-,0,unknown,other
+NM_024508,L243 up,3,-,0,unknown,other
+NM_145914,L243 up,3,CLIP up,1,nucleus,transcriptionregulator
+NM_007130,L243 up,3,CLIP up,1,nucleus,transcriptionregulator
+NM_024106,L243 up,2,CLIP up,1,nucleus,other
+NM_021224,L243 up,3,CLIP up,1,nucleus,other
+NM_021915,L243 up,2,CLIP up,1,nucleus,other
+NM_007135,L243 up,3,-,0,nucleus,other
+XM_375495,L243 up,2,CLIP up,2,cytoplasm,kinase
+NM_001089,L243 up,2,CLIP up,2,plasmaMembrane,transporter
+NM_005781,L243 up,3,CLIP up,2,cytoplasm,kinase
+NM_032489,L243 up,2,CLIP up,3,extracellularSpace,other
+NM_001114,L243 up,2,CLIP up,3,plasmaMembrane,enzyme
+NM_014203,L243 up,3,CLIP up,2,cytoplasm,transporter
+NM_004318,L243 up,3,CLIP up,3,cytoplasm,enzyme
+NM_001683,L243 up,2,CLIP up,2,plasmaMembrane,transporter
+NM_012104,L243 up,2,CLIP up,3,cytoplasm,peptidase
+NM_022898,L243 up,2,CLIP up,2,nucleus,other
+NM_024889,L243 up,2,CLIP up,2,unknown,other
+NM_016075,L243 up,2,CLIP up,3,cytoplasm,other
+NM_016304,L243 up,3,CLIP up,4,nucleus,other
+NM_020131,L243 up,3,CLIP up,4,cytoplasm,other
+NM_213720,L243 up,2,CLIP up,2,unknown,other
+NM_004341,L243 up,2,CLIP up,3,nucleus,enzyme
+NM_003656,L243 up,2,CLIP up,2,cytoplasm,kinase
+NM_003718,L243 up,3,CLIP up,2,unknown,kinase
+NM_012121,L243 up,2,CLIP up,2,cytoplasm,other
+NM_031299,L243 up,2,CLIP up,3,cytoplasm,other
+NM_016001,L243 up,2,CLIP up,2,nucleus,other
+NM_001273,L243 up,2,CLIP up,2,nucleus,enzyme
+NM_001302,L243 up,2,CLIP up,2,extracellularSpace,other
+NM_015692,L243 up,2,CLIP up,2,unknown,other
+NM_194071,L243 up,2,CLIP up,4,unknown,other
+NM_001888,L243 up,2,CLIP up,2,cytoplasm,enzyme
+NM_005211,L243 up,3,CLIP up,2,plasmaMembrane,kinase
+NM_004383,L243 up,3,CLIP up,2,cytoplasm,kinase
+NM_003467,L243 up,3,CLIP up,2,plasmaMembrane,G-proteincoupledreceptor
+NM_004938,L243 up,4,CLIP up,2,cytoplasm,kinase
+NM_001348,L243 up,2,CLIP up,2,cytoplasm,kinase
+NM_033257,L243 up,3,CLIP up,2,nucleus,other
+NM_001347,L243 up,2,CLIP up,2,cytoplasm,kinase
+NM_001386,L243 up,2,CLIP up,2,cytoplasm,enzyme
+NM_138419,L243 up,2,CLIP up,2,unknown,other
+NM_004094,L243 up,4,CLIP up,2,cytoplasm,translationregulator
+NM_001415,L243 up,2,CLIP up,2,cytoplasm,translationregulator
+NM_015176,L243 up,2,CLIP up,2,unknown,other
+NM_018379,L243 up,2,CLIP up,4,unknown,other
+NM_025155,L243 up,2,CLIP up,2,unknown,other
+NM_024705,L243 up,2,CLIP up,3,nucleus,other
+NM_024709,L243 up,2,CLIP up,3,unknown,other
+NM_015590,L243 up,2,CLIP up,2,unknown,other
+NM_198534,L243 up,2,CLIP up,3,unknown,other
+NM_207390,L243 up,3,CLIP up,2,unknown,other
+NM_005253,L243 up,4,CLIP up,4,nucleus,transcriptionregulator
+NM_000160,L243 up,3,CLIP up,2,plasmaMembrane,G-proteincoupledreceptor
+NM_005272,L243 up,2,CLIP up,2,plasmaMembrane,enzyme
+NM_002073,L243 up,3,CLIP up,3,plasmaMembrane,enzyme
+NM_018178,L243 up,2,CLIP up,2,cytoplasm,other
+NM_014661,L243 up,2,CLIP up,2,unknown,other
+NM_016284,L243 up,3,CLIP up,2,unknown,unknown
+NM_207313,L243 up,2,CLIP up,2,unknown,other
+XM_371330,L243 up,2,CLIP up,2,unknown,other
+NM_203453,L243 up,2,CLIP up,2,unknown,phosphatase
+NM_201589,L243 up,2,CLIP up,2,plasmaMembrane,other
+NM_002419,L243 up,2,CLIP up,2,cytoplasm,kinase
+NM_006301,L243 up,3,CLIP up,2,cytoplasm,kinase
+NM_003954,L243 up,3,CLIP up,4,cytoplasm,kinase
+NM_033141,L243 up,2,CLIP up,2,cytoplasm,kinase
+NM_007181,L243 up,3,CLIP up,2,cytoplasm,kinase
+NM_002745,L243 up,2,CLIP up,2,cytoplasm,kinase
+NM_018467,L243 up,2,CLIP up,4,cytoplasm,other
+NM_032916,L243 up,2,CLIP up,4,unknown,unknown
+NM_052880,L243 up,2,CLIP up,2,unknown,other
+NM_023942,L243 up,2,CLIP up,2,unknown,other
+NM_173680,L243 up,2,CLIP up,2,unknown,other
+NM_015716,L243 up,3,CLIP up,2,cytoplasm,kinase
+NM_005439,L243 up,2,CLIP up,2,nucleus,other
+NM_005594,L243 up,3,CLIP up,2,nucleus,transcriptionregulator
+NM_002498,L243 up,3,CLIP up,2,nucleus,kinase
+NM_178170,L243 up,3,CLIP up,2,nucleus,kinase
+NM_002513,L243 up,2,CLIP up,3,extracellularSpace,kinase
+NM_022917,L243 up,2,CLIP up,2,nucleus,other
+NM_000907,L243 up,2,CLIP up,2,plasmaMembrane,G-proteincoupledreceptor
+NM_007121,L243 up,4,CLIP up,2,nucleus,ligand-dependentnuclearreceptor
+NM_014669,L243 up,3,CLIP up,3,nucleus,other
+NM_023112,L243 up,2,CLIP up,3,unknown,other
+NM_002651,L243 up,4,CLIP up,2,cytoplasm,kinase
+NM_004073,L243 up,2,CLIP up,2,nucleus,kinase
+NM_172020,L243 up,3,CLIP up,2,nucleus,kinase
+NM_004792,L243 up,2,CLIP up,2,nucleus,enzyme
+NM_025072,L243 up,2,CLIP up,2,cytoplasm,transcriptionregulator
+NM_003610,L243 up,4,CLIP up,2,nucleus,other
+NM_052859,L243 up,2,CLIP up,2,unknown,other
+NM_018124,L243 up,2,CLIP up,3,unknown,other
+NM_017790,L243 up,2,CLIP up,2,nucleus,other
+NM_006064,L243 up,3,CLIP up,2,nucleus,enzyme
+NM_022050,L243 up,2,CLIP up,2,nucleus,transcriptionregulator
+NM_030673,L243 up,2,CLIP up,2,cytoplasm,transporter
+NM_006924,L243 up,2,CLIP up,2,nucleus,other
+NM_003086,L243 up,2,CLIP up,2,nucleus,transcriptionregulator
+NM_145345,L243 up,3,CLIP up,2,cytoplasm,other
+NM_004809,L243 up,3,CLIP up,2,unknown,other
+NM_003215,L243 up,2,CLIP up,2,cytoplasm,kinase
+NM_003242,L243 up,2,CLIP up,3,plasmaMembrane,kinase
+NM_006351,L243 up,2,CLIP up,2,cytoplasm,transporter
+NM_012465,L243 up,2,CLIP up,3,extracellularSpace,peptidase
+NM_019009,L243 up,4,CLIP up,2,cytoplasm,other
+NM_004237,L243 up,2,CLIP up,2,cytoplasm,transcriptionregulator
+NM_145170,L243 up,3,CLIP up,3,unknown,other
+NM_004247,L243 up,2,CLIP up,2,nucleus,enzyme
+NM_014683,L243 up,2,CLIP up,3,cytoplasm,kinase
+NM_012474,L243 up,2,CLIP up,3,unknown,unknown
+NM_152586,L243 up,2,CLIP up,2,unknown,peptidase
+NM_016208,L243 up,2,CLIP up,2,cytoplasm,transporter
+NM_006296,L243 up,2,CLIP up,2,nucleus,kinase
+NM_022834,L243 up,2,CLIP up,3,extracellularSpace,other
+NM_020657,L243 up,2,CLIP up,2,nucleus,other

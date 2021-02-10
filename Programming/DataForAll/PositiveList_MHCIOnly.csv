@@ -1,0 +1,28 @@
+MHC1OR2,Process_classification,Gene_name_kegg,Ensembl_name,KO_definition/Ensembl_definition,Link,Ensembl_accession,Neefjes_accession,Subdivision types,Location of action
+1,Endoplasmatic Reticulum,HSPA5/BIP/GRP78/HEL-S-89n/MIF2,HSPA5,(RefSeq) heat shock protein family A (Hsp70) member 5,http://www.genome.jp/dbget-bin/www_bget?K09490,ENSG00000044574,,MHC I,Endoplasmatic Reticulum
+1,Endoplasmatic Reticulum,CANX,CANX,calnexin,http://www.kegg.jp/dbget-bin/www_bget?K08054 ,ENSG00000127022,,MHC I,Endoplasmatic Reticulum
+1,Endoplasmatic Reticulum,PDIA3/GRP58,PDIA3,"protein disulfide isomerase family A, member 3 [EC:5.3.4.1]",http://www.kegg.jp/dbget-bin/www_bget?K08056 ,ENSG00000167004,,MHC I,Endoplasmatic Reticulum
+1,Endoplasmatic Reticulum,CALR,CALR,calreticulin,http://www.kegg.jp/dbget-bin/www_bget?K08057 ,ENSG00000179218,,MHC I,Endoplasmatic Reticulum
+1,Endoplasmatic Reticulum,B2M,B2M,beta-2-microglobulin,http://www.kegg.jp/dbget-bin/www_bget?K08055 ,ENSG00000166710,,MHC I,Endoplasmatic Reticulum
+1,Endoplasmatic Reticulum,TAPBP,TAPBP,TAP binding protein (tapasin),http://www.kegg.jp/dbget-bin/www_bget?K08058 ,ENSG00000231925,,MHC I,Endoplasmatic Reticulum
+1,Endoplasmatic Reticulum,NONE,TAPBPL,NONE,NONE,ENSG00000139192,,MHC I,Endoplasmatic Reticulum
+1,Endoplasmatic Reticulum,ABCB2/TAP1,TAP1,"ATP-binding cassette, subfamily B (MDR/TAP), member 2",http://www.kegg.jp/dbget-bin/www_bget?hsa:6890 ,ENSG00000168394,,MHC I,Endoplasmatic Reticulum
+1,Endoplasmatic Reticulum,ABCB3/TAP2,TAP2,"ATP-binding cassette, subfamily B (MDR/TAP), member 3",http://www.kegg.jp/dbget-bin/www_bget?hsa:6891 ,ENSG00000204267,,MHC I,Endoplasmatic Reticulum
+1,MHC,HLA-A,HLA-A,"(RefSeq) major histocompatibility complex, class I, A",http://www.genome.jp/dbget-bin/www_bget?hsa:3105 ,ENSG00000206503,,MHC I,MHC I subunit
+1,MHC,HLA-B,HLA-B,"(RefSeq) major histocompatibility complex, class I, B",http://www.genome.jp/dbget-bin/www_bget?hsa:3106 ,ENSG00000234745,,MHC I,MHC I subunit
+1,MHC,HLA-C,HLA-C,"(RefSeq) major histocompatibility complex, class I, C",http://www.genome.jp/dbget-bin/www_bget?hsa:3107 ,ENSG00000204525,,MHC I,MHC I subunit
+1,MHC,HLA-E,HLA-E,"(RefSeq) major histocompatibility complex, class I, E",http://www.genome.jp/dbget-bin/www_bget?hsa+HLA-E ,ENSG00000204592,,MHC I,MHC I subunit
+1,MHC,HLA-F,HLA-F,"(RefSeq) major histocompatibility complex, class I, F",http://www.genome.jp/dbget-bin/www_bget?hsa+HLA-F ,ENSG00000204642,,MHC I,MHC I subunit
+1,MHC,HLA-G,HLA-G,"(RefSeq) major histocompatibility complex, class I, G",http://www.genome.jp/dbget-bin/www_bget?hsa:3135 ,ENSG00000204632,,MHC I,MHC I subunit
+2AND1,Transcription_factors,CIITA/C2TA/CIITAIV/MHC2TA/NLRA,CIITA,(RefSeq) class II major histocompatibility complex transactivator,http://www.kegg.jp/dbget-bin/www_bget?K08060 ,ENSG00000179583,NM_000246,MHC I and II,Transcription factor
+1,Transcription_factors,RFX5,RFX5,regulatory factor X 5,http://www.kegg.jp/dbget-bin/www_bget?K08061 ,ENSG00000143390,,MHC I,Transcription factor
+1,Transcription_factors,RFXANK,RFXANK,regulatory factor X-associated ankyrin-containing protein,http://www.kegg.jp/dbget-bin/www_bget?K08062 ,ENSG00000064490,,MHC I,Transcription factor
+1,Transcription_factors,RFXAP,RFXAP,regulatory factor X-associated protein,http://www.kegg.jp/dbget-bin/www_bget?K08063 ,ENSG00000133111,,MHC I,Transcription factor
+1,Transcription_factors,CREB1,CREB1,cyclic AMP-responsive element-binding protein 1,http://www.kegg.jp/dbget-bin/www_bget?K05870 ,ENSG00000118260,,MHC I,Transcription factor
+1,Transcription_factors,NFYA,NFYA,"nuclear transcription factor Y, alpha",http://www.kegg.jp/dbget-bin/www_bget?K08064 ,ENSG00000001167,,MHC I,Transcription factor
+1,Transcription_factors,NFYB,NFYB,nuclear transcription Y subunit beta,http://www.kegg.jp/dbget-bin/www_bget?K08065 ,ENSG00000120837,,MHC I,Transcription factor
+1,Transcription_factors,NFYC,NFYC,"nuclear transcription factor Y, gamma",http://www.kegg.jp/dbget-bin/www_bget?K08066,ENSG00000066136,,MHC I,Transcription factor
+1,Transcription_factors,NONE,NLRC5,nuclear transcription factor regulating expression of MHC1 molecules,-,ENSG00000140853,,MHC I,Transcription factor
+1,Endoplasmatic Reticulum,NONE,ERAP1,endoplasmic reticulum aminopeptidase 1,-,ENSG00000164307,,MHC I,Endoplasmatic Reticulum
+1,Endoplasmatic Reticulum,NONE,ERAP2,endoplasmic reticulum aminopeptidase 2,-,ENSG00000164308,,MHC I,Endoplasmatic Reticulum
+1,Neefjens_Transcription_MHCI_influencing,,IL27RA,interleukin 27 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:17290],,ENSG00000104998,NM_004843,MHC I,Neefjens_Transcription_MHCI_influencing

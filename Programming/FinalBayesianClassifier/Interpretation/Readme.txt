@@ -1,0 +1,2 @@
+This directory contains data files used to find out what the top 20 NS genes according to the classifier (i.e. those most likely to be highly involved in the MHC pathway) do. Specifically,
+GO enrichment analysis data. A literature search was conducted in addition to this. See the project report for details.

@@ -1,0 +1,5 @@
+Log for TFBSenrichr, run at 2017-11-08 13:04:17
+Running function loadLibraryAndData
+ arguments:
+
+loadLibraryAndData

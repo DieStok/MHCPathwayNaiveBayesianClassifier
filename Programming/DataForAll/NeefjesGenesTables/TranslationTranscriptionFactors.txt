@@ -1,0 +1,11 @@
+Gene name,Gene description,Gene stable ID,RefSeq mRNA ID
+CIITA,class II major histocompatibility complex transactivator [Source:HGNC Symbol;Acc:HGNC:7067],ENSG00000179583,NM_000246
+MAPK1,mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871],ENSG00000100030,NM_002745
+IL27RA,interleukin 27 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:17290],ENSG00000104998,NM_004843
+CNOT2,CCR4-NOT transcription complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:7878],ENSG00000111596,NM_014515
+CNOT1,CCR4-NOT transcription complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:7877],ENSG00000125107,NM_016284
+PLEKHA4,pleckstrin homology domain containing A4 [Source:HGNC Symbol;Acc:HGNC:14339],ENSG00000105559,NM_020904
+RMND5B,required for meiotic nuclear division 5 homolog B [Source:HGNC Symbol;Acc:HGNC:26181],ENSG00000145916,NM_022762
+EFHD2,EF-hand domain family member D2 [Source:HGNC Symbol;Acc:HGNC:28670],ENSG00000142634,NM_024329
+CDCA3,cell division cycle associated 3 [Source:HGNC Symbol;Acc:HGNC:14624],ENSG00000111665,NM_031299
+KAT5,lysine acetyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:5275],ENSG00000172977,NM_182710

@@ -1,0 +1,145 @@
+ensembl_gene_id,refseq_mrna,description,HighScore,Antibody,L243-Cy3,L243EffectDuplexAmount,CLIP-Cy5,CLIPEffectDuplexAmount,Localization,Function
+ENSG00000011260,NM_016001,"UTP18, small subunit processome component [Source:HGNC Symbol;Acc:HGNC:24274]",1.531,L243,L243 up,2,CLIP up,2,nucleus,other
+ENSG00000053501,NM_018467,unconventional SNARE in the ER 1 [Source:HGNC Symbol;Acc:HGNC:30882],1.328,CLIP,L243 up,2,CLIP up,4,cytoplasm,other
+ENSG00000067221,NM_004809,stomatin like 1 [Source:HGNC Symbol;Acc:HGNC:14560],1.477,L243,L243 up,3,CLIP up,2,unknown,other
+ENSG00000078902,NM_019009,toll interacting protein [Source:HGNC Symbol;Acc:HGNC:16476],2.666,CLIP,L243 up,4,CLIP up,2,cytoplasm,other
+ENSG00000083750,NM_006064,Ras related GTP binding B [Source:HGNC Symbol;Acc:HGNC:19901],2.051,L243,L243 up,3,CLIP up,2,nucleus,enzyme
+ENSG00000083812,NM_014347,zinc finger protein 324 [Source:HGNC Symbol;Acc:HGNC:14096],1.99,CLIP,-,0,CLIP up,3,nucleus,other
+ENSG00000084774,NM_004341,"carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase [Source:HGNC Symbol;Acc:HGNC:1424]",3.013,L243,L243 up,2,CLIP up,3,nucleus,enzyme
+ENSG00000089723,NM_023112,"OTU deubiquitinase, ubiquitin aldehyde binding 2 [Source:HGNC Symbol;Acc:HGNC:20351]",1.535,L243,L243 up,2,CLIP up,3,unknown,other
+ENSG00000092964,NM_001386,dihydropyrimidinase like 2 [Source:HGNC Symbol;Acc:HGNC:3014],1.566,L243,L243 up,2,CLIP up,2,cytoplasm,enzyme
+ENSG00000095587,NM_012465,tolloid like 2 [Source:HGNC Symbol;Acc:HGNC:11844],2.909,L243,L243 up,2,CLIP up,3,extracellularSpace,peptidase
+ENSG00000100056,NM_022719,ess-2 splicing factor homolog [Source:HGNC Symbol;Acc:HGNC:16817],1.574,L243,L243 up,3,CLIP up,1,nucleus,other
+ENSG00000100100,NM_052880,phosphoinositide-3-kinase interacting protein 1 [Source:HGNC Symbol;Acc:HGNC:24942],1.513,CLIP,L243 up,2,CLIP up,2,unknown,other
+ENSG00000100417,NM_002676,phosphomannomutase 1 [Source:HGNC Symbol;Acc:HGNC:9114],2.346,L243,-,0,CLIP up,3,cytoplasm,enzyme
+ENSG00000100479,NM_002692,"DNA polymerase epsilon 2, accessory subunit [Source:HGNC Symbol;Acc:HGNC:9178]",1.103,L243,-,0,CLIP up,2,nucleus,enzyme
+ENSG00000100883,NM_003136,signal recognition particle 54 [Source:HGNC Symbol;Acc:HGNC:11301],1.077,L243,L243 down,2,-,0,cytoplasm,other
+ENSG00000101082,NM_032214,Src like adaptor 2 [Source:HGNC Symbol;Acc:HGNC:17329],-2.992,L243,L243 down,2,-,0,plasmaMembrane,other
+ENSG00000101146,NM_003610,ribonucleic acid export 1 [Source:HGNC Symbol;Acc:HGNC:9828],1.497,L243,L243 up,4,CLIP up,2,nucleus,other
+ENSG00000102796,NM_024705,dehydrogenase/reductase 12 [Source:HGNC Symbol;Acc:HGNC:25832],1.068,L243,L243 up,2,CLIP up,3,nucleus,other
+ENSG00000102900,NM_014669,nucleoporin 93 [Source:HGNC Symbol;Acc:HGNC:28958],1.319,L243,L243 up,3,CLIP up,3,nucleus,other
+ENSG00000103544,NM_020314,VPS35 endosomal protein sorting factor like [Source:HGNC Symbol;Acc:HGNC:24641],-2.108,L243,L243 down,3,-,0,unknown,other
+ENSG00000104835,NM_017827,"seryl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:17697]",1.986,L243,-,0,CLIP up,2,cytoplasm,enzyme
+ENSG00000104946,NM_024682,TBC1 domain family member 17 [Source:HGNC Symbol;Acc:HGNC:25699],1.608,L243,-,0,CLIP up,3,unknown,other
+ENSG00000104980,NM_006351,translocase of inner mitochondrial membrane 44 [Source:HGNC Symbol;Acc:HGNC:17316],2.217,L243,L243 up,2,CLIP up,2,cytoplasm,transporter
+ENSG00000105341,NM_018035,distal membrane arm assembly complex 2 [Source:HGNC Symbol;Acc:HGNC:25496],1.248,L243,-,0,CLIP up,2,unknown,other
+ENSG00000105559,NM_020904,pleckstrin homology domain containing A4 [Source:HGNC Symbol;Acc:HGNC:14339],1.173,CLIP,-,0,CLIP up,2,cytoplasm,other
+ENSG00000108883,NM_004247,elongation factor Tu GTP binding domain containing 2 [Source:HGNC Symbol;Acc:HGNC:30858],0.969,L243,L243 up,2,CLIP up,2,nucleus,enzyme
+ENSG00000110944,NM_016584,interleukin 23 subunit alpha [Source:HGNC Symbol;Acc:HGNC:15488],1.429,L243,L243 up,2,-,0,extracellularSpace,cytokine
+ENSG00000111644,NM_032489,acrosin binding protein [Source:HGNC Symbol;Acc:HGNC:17195],0.946,L243,L243 up,2,CLIP up,3,extracellularSpace,other
+ENSG00000111665,NM_031299,cell division cycle associated 3 [Source:HGNC Symbol;Acc:HGNC:14624],2.091,L243,L243 up,2,CLIP up,3,cytoplasm,other
+ENSG00000113384,NM_022130,golgi phosphoprotein 3 [Source:HGNC Symbol;Acc:HGNC:15452],1.138,L243,L243 up,2,-,0,cytoplasm,other
+ENSG00000114120,NM_018155,solute carrier family 25 member 36 [Source:HGNC Symbol;Acc:HGNC:25554],2.492,CLIP,-,0,CLIP up,2,unknown,transporter
+ENSG00000115267,NM_022168,interferon induced with helicase C domain 1 [Source:HGNC Symbol;Acc:HGNC:18873],1.495,L243,L243 up,2,CLIP up,1,nucleus,enzyme
+ENSG00000115274,NM_031288,INO80 complex subunit B [Source:HGNC Symbol;Acc:HGNC:13324],1.969,L243,L243 up,2,-,0,nucleus,other
+ENSG00000117862,NM_015913,thioredoxin domain containing 12 [Source:HGNC Symbol;Acc:HGNC:24626],9.036,CLIP,-,0,CLIP up,2,cytoplasm,enzyme
+ENSG00000119227,NM_025163,phosphatidylinositol glycan anchor biosynthesis class Z [Source:HGNC Symbol;Acc:HGNC:30596],1.4,CLIP,L243 up,2,CLIP up,1,cytoplasm,enzyme
+ENSG00000120217,NM_014143,CD274 molecule [Source:HGNC Symbol;Acc:HGNC:17635],1.085,L243,L243 up,2,CLIP up,1,plasmaMembrane,other
+ENSG00000121966,NM_003467,C-X-C motif chemokine receptor 4 [Source:HGNC Symbol;Acc:HGNC:2561],1.574,L243,L243 up,3,CLIP up,2,plasmaMembrane,G-proteincoupledreceptor
+ENSG00000123165,NM_138289,actin related protein T1 [Source:HGNC Symbol;Acc:HGNC:24027],1.354,L243,-,0,CLIP up,3,unknown,other
+ENSG00000125485,NM_022779,DEAD-box helicase 31 [Source:HGNC Symbol;Acc:HGNC:16715],2.4075,L243,-,0,CLIP up,3,unknown,other
+ENSG00000126882,NM_033387,family with sequence similarity 78 member A [Source:HGNC Symbol;Acc:HGNC:25465],1.167,L243,-,0,CLIP up,2,unknown,other
+ENSG00000127152,NM_022898,B cell CLL/lymphoma 11B [Source:HGNC Symbol;Acc:HGNC:13222],1.281,L243,L243 up,2,CLIP up,2,nucleus,other
+ENSG00000127184,NM_001867,cytochrome c oxidase subunit 7C [Source:HGNC Symbol;Acc:HGNC:2292],1.884,L243,L243 up,3,CLIP up,1,cytoplasm,enzyme
+ENSG00000127399,NM_023942,leucine rich repeat containing 61 [Source:HGNC Symbol;Acc:HGNC:21704],1.7345,L243,L243 up,2,CLIP up,2,unknown,other
+ENSG00000127481,NM_020765,ubiquitin protein ligase E3 component n-recognin 4 [Source:HGNC Symbol;Acc:HGNC:30313],1.8305,L243,L243 up,4,CLIP up,1,nucleus,other
+ENSG00000128185,NM_033257,DiGeorge syndrome critical region gene 6 like [Source:HGNC Symbol;Acc:HGNC:18551],0.923,L243,L243 up,3,CLIP up,2,nucleus,other
+ENSG00000129467,NM_139247,adenylate cyclase 4 [Source:HGNC Symbol;Acc:HGNC:235],1.452,CLIP,L243 up,2,CLIP up,1,plasmaMembrane,enzyme
+ENSG00000130741,NM_001415,eukaryotic translation initiation factor 2 subunit gamma [Source:HGNC Symbol;Acc:HGNC:3267],1.615,L243,L243 up,2,CLIP up,2,cytoplasm,translationregulator
+ENSG00000131845,NM_020657,zinc finger protein 304 [Source:HGNC Symbol;Acc:HGNC:13505],1.111,L243,L243 up,2,CLIP up,2,nucleus,other
+ENSG00000134001,NM_004094,eukaryotic translation initiation factor 2 subunit alpha [Source:HGNC Symbol;Acc:HGNC:3265],1.709,L243,L243 up,4,CLIP up,2,cytoplasm,translationregulator
+ENSG00000134183,NM_005272,G protein subunit alpha transducin 2 [Source:HGNC Symbol;Acc:HGNC:4394],2.125,L243,L243 up,2,CLIP up,2,plasmaMembrane,enzyme
+ENSG00000135482,NM_032786,zinc finger CCCH-type containing 10 [Source:HGNC Symbol;Acc:HGNC:25893],2.037,L243,-,0,CLIP up,2,unknown,other
+ENSG00000136100,NM_016075,vacuolar protein sorting 36 homolog [Source:HGNC Symbol;Acc:HGNC:20312],1.226,L243,L243 up,2,CLIP up,3,cytoplasm,other
+ENSG00000136280,NM_031443,CCM2 scaffolding protein [Source:HGNC Symbol;Acc:HGNC:21708],1.301,CLIP,-,0,CLIP up,2,cytoplasm,other
+ENSG00000137507,NM_005512,leucine rich repeat containing 32 [Source:HGNC Symbol;Acc:HGNC:4161],0.946,L243,L243 up,2,CLIP up,1,plasmaMembrane,other
+ENSG00000137876,NM_016304,ribosomal L24 domain containing 1 [Source:HGNC Symbol;Acc:HGNC:18479],2.772,L243,L243 up,3,CLIP up,4,nucleus,other
+ENSG00000138835,NM_017790,regulator of G protein signaling 3 [Source:HGNC Symbol;Acc:HGNC:9999],1.127,L243,L243 up,2,CLIP up,2,nucleus,other
+ENSG00000140395,NM_025234,WD repeat domain 61 [Source:HGNC Symbol;Acc:HGNC:30300],2.6945,CLIP,L243 up,2,CLIP up,1,unknown,other
+ENSG00000140853,NM_032206,NLR family CARD domain containing 5 [Source:HGNC Symbol;Acc:HGNC:29933],-2.351,L243,L243 down,2,CLIP up,1,unknown,other
+ENSG00000142634,NM_024329,EF-hand domain family member D2 [Source:HGNC Symbol;Acc:HGNC:28670],1.428,L243,L243 up,2,CLIP up,1,unknown,other
+ENSG00000143409,NM_018379,MINDY lysine 48 deubiquitinase 1 [Source:HGNC Symbol;Acc:HGNC:25648],1.815,L243,L243 up,2,CLIP up,4,unknown,other
+ENSG00000143457,NM_018178,golgi phosphoprotein 3 like [Source:HGNC Symbol;Acc:HGNC:24882],1.194,L243,L243 up,2,CLIP up,2,cytoplasm,other
+ENSG00000143756,NM_015176,F-box protein 28 [Source:HGNC Symbol;Acc:HGNC:29046],1.159,CLIP,L243 up,2,CLIP up,2,unknown,other
+ENSG00000145780,NM_020177,fem-1 homolog C [Source:HGNC Symbol;Acc:HGNC:16933],2.086,L243,-,0,CLIP up,2,nucleus,transcriptionregulator
+ENSG00000145916,NM_022762,required for meiotic nuclear division 5 homolog B [Source:HGNC Symbol;Acc:HGNC:26181],2.003,L243,L243 down,#4*,-,1,unknown,other
+ENSG00000146410,NM_138419,mitochondrial fission regulator 2 [Source:HGNC Symbol;Acc:HGNC:21115],1.8095,L243,L243 up,2,CLIP up,2,unknown,other
+ENSG00000146535,NM_007353,G protein subunit alpha 12 [Source:HGNC Symbol;Acc:HGNC:4380],1.921,L243,L243 up,3,CLIP up,1,plasmaMembrane,enzyme
+ENSG00000147124,NM_007130,zinc finger protein 41 [Source:HGNC Symbol;Acc:HGNC:13107],1.625,L243,L243 up,3,CLIP up,1,nucleus,transcriptionregulator
+ENSG00000147140,NM_007363,non-POU domain containing octamer binding [Source:HGNC Symbol;Acc:HGNC:7871],1.123,L243,L243 up,3,-,0,nucleus,other
+ENSG00000148143,NM_021224,zinc finger protein 462 [Source:HGNC Symbol;Acc:HGNC:21684],1.016,L243,L243 up,3,CLIP up,1,nucleus,other
+ENSG00000148334,NM_025072,prostaglandin E synthase 2 [Source:HGNC Symbol;Acc:HGNC:17822],1.125,L243,L243 up,2,CLIP up,2,cytoplasm,transcriptionregulator
+ENSG00000153904,NM_012137,dimethylarginine dimethylaminohydrolase 1 [Source:HGNC Symbol;Acc:HGNC:2715],3.016,CLIP,L243 up,2,CLIP up,1,cytoplasm,enzyme
+ENSG00000155744,NM_173822,family with sequence similarity 126 member B [Source:HGNC Symbol;Acc:HGNC:28593],0.989,L243,L243 up,3,-,0,unknown,other
+ENSG00000156042,NM_145170,cilia and flagella associated protein 70 [Source:HGNC Symbol;Acc:HGNC:30726],1.951,L243,L243 up,3,CLIP up,3,unknown,other
+ENSG00000157087,NM_001683,ATPase plasma membrane Ca2+ transporting 2 [Source:HGNC Symbol;Acc:HGNC:815],2.684,CLIP,L243 up,2,CLIP up,2,plasmaMembrane,transporter
+ENSG00000158062,NM_145345,UBX domain protein 11 [Source:HGNC Symbol;Acc:HGNC:30600],2.116,L243,L243 up,3,CLIP up,2,cytoplasm,other
+ENSG00000160111,NM_015692,"C3 and PZP like, alpha-2-macroglobulin domain containing 8 [Source:HGNC Symbol;Acc:HGNC:23228]",1.476,L243,L243 up,2,CLIP up,2,unknown,other
+ENSG00000160679,NM_015607,chromatin target of PRMT1 [Source:HGNC Symbol;Acc:HGNC:24511],1.037,L243,L243 up,2,-,0,nucleus,other
+ENSG00000160803,NM_020131,ubiquilin 4 [Source:HGNC Symbol;Acc:HGNC:1237],2.624,L243,L243 up,3,CLIP up,4,cytoplasm,other
+ENSG00000160818,NM_015590,G-patch domain containing 4 [Source:HGNC Symbol;Acc:HGNC:25982],2.28,L243,L243 up,2,CLIP up,2,unknown,other
+ENSG00000160948,NM_016208,"VPS28, ESCRT-I subunit [Source:HGNC Symbol;Acc:HGNC:18178]",1.337,CLIP,L243 up,2,CLIP up,2,cytoplasm,transporter
+ENSG00000162062,NM_025108,tubulin epsilon and delta complex 2 [Source:HGNC Symbol;Acc:HGNC:25849],3.0515,L243,-,0,CLIP up,2,unknown,other
+ENSG00000162817,NM_024709,chromosome 1 open reading frame 115 [Source:HGNC Symbol;Acc:HGNC:25873],1.145,L243,L243 up,2,CLIP up,3,unknown,other
+ENSG00000163933,NM_052859,RFT1 homolog [Source:HGNC Symbol;Acc:HGNC:30220],1.299,L243,L243 up,2,CLIP up,2,unknown,other
+ENSG00000164405,NM_014402,ubiquinol-cytochrome c reductase complex III subunit VII [Source:HGNC Symbol;Acc:HGNC:29594],1.865,CLIP,-,0,CLIP up,4,cytoplasm,enzyme
+ENSG00000164889,NM_003040,solute carrier family 4 member 2 [Source:HGNC Symbol;Acc:HGNC:11028],1.498,CLIP,-,0,CLIP up,3,plasmaMembrane,transporter
+ENSG00000165271,NM_022917,nucleolar protein 6 [Source:HGNC Symbol;Acc:HGNC:19910],1.426,L243,L243 up,2,CLIP up,2,nucleus,other
+ENSG00000165684,NM_003086,small nuclear RNA activating complex polypeptide 4 [Source:HGNC Symbol;Acc:HGNC:11137],1.037,L243,L243 up,2,CLIP up,2,nucleus,transcriptionregulator
+ENSG00000166348,NM_152586,ubiquitin specific peptidase 54 [Source:HGNC Symbol;Acc:HGNC:23513],1.412,CLIP,L243 up,2,CLIP up,2,unknown,peptidase
+ENSG00000167705,NM_031430,Rab interacting lysosomal protein [Source:HGNC Symbol;Acc:HGNC:30266],1.63,L243,L243 up,1,CLIP up,2,nucleus,other
+ENSG00000167972,NM_001089,ATP binding cassette subfamily A member 3 [Source:HGNC Symbol;Acc:HGNC:33],3.195,L243,L243 up,2,CLIP up,2,plasmaMembrane,transporter
+ENSG00000168135,NM_004981,potassium voltage-gated channel subfamily J member 4 [Source:HGNC Symbol;Acc:HGNC:6265],1.907,CLIP,-,0,CLIP up,2,plasmaMembrane,ionchannel
+ENSG00000168329,NM_001337,C-X3-C motif chemokine receptor 1 [Source:HGNC Symbol;Acc:HGNC:2558],1.145,L243,L243 up,3,CLIP up,1,plasmaMembrane,G-proteincoupledreceptor
+ENSG00000168411,NM_018124,ring finger and WD repeat domain 3 [Source:HGNC Symbol;Acc:HGNC:25539],2.924,L243,L243 up,2,CLIP up,3,unknown,other
+ENSG00000169718,NM_022156,dihydrouridine synthase 1 like [Source:HGNC Symbol;Acc:HGNC:30086],1.671,L243,-,0,CLIP up,2,unknown,other
+ENSG00000169740,NM_006973,zinc finger protein 32 [Source:HGNC Symbol;Acc:HGNC:13095],2.678,L243,-,0,CLIP up,2,nucleus,other
+ENSG00000169777,NM_019599,taste 2 receptor member 1 [Source:HGNC Symbol;Acc:HGNC:14909],1.436,L243,L243 up,3,CLIP up,1,plasmaMembrane,G-proteincoupledreceptor
+ENSG00000172728,NM_032664,fucosyltransferase 10 [Source:HGNC Symbol;Acc:HGNC:19234],1.428,L243,-,0,CLIP up,3,cytoplasm,enzyme
+ENSG00000173456,NM_032015,ring finger protein 26 [Source:HGNC Symbol;Acc:HGNC:14646],3.588,CLIP,-,0,CLIP up,2,unknown,other
+ENSG00000175575,NM_025155,proteasomal ATPase associated factor 1 [Source:HGNC Symbol;Acc:HGNC:25687],2.383,L243,L243 up,2,CLIP up,2,unknown,other
+ENSG00000177427,NM_139162,mitochondrial elongation factor 2 [Source:HGNC Symbol;Acc:HGNC:17920],1.783,L243,-,0,CLIP up,2,unknown,other
+ENSG00000177494,NM_024508,zinc finger BED-type containing 2 [Source:HGNC Symbol;Acc:HGNC:20710],1.344,L243,L243 up,3,-,0,unknown,other
+ENSG00000178718,NM_017793,ribonuclease P and MRP subunit p25 [Source:HGNC Symbol;Acc:HGNC:30361],1.157,L243,L243 up,2,-,0,nucleus,other
+ENSG00000178935,NM_024762,zinc finger protein 552 [Source:HGNC Symbol;Acc:HGNC:26135],1.102,L243,-,0,CLIP up,2,unknown,other
+ENSG00000179403,NM_022834,von Willebrand factor A domain containing 1 [Source:HGNC Symbol;Acc:HGNC:30910],1.818,L243,L243 up,2,CLIP up,3,extracellularSpace,other
+ENSG00000179604,NM_012121,CDC42 effector protein 4 [Source:HGNC Symbol;Acc:HGNC:17147],1.406,L243,L243 up,2,CLIP up,2,cytoplasm,other
+ENSG00000179674,NM_025047,ADP ribosylation factor like GTPase 14 [Source:HGNC Symbol;Acc:HGNC:22974],1.986,L243,L243 up,2,CLIP up,1,unknown,other
+ENSG00000182158,NM_194071,cAMP responsive element binding protein 3 like 2 [Source:HGNC Symbol;Acc:HGNC:23720],1.527,L243,L243 up,2,CLIP up,4,unknown,other
+ENSG00000182759,NM_201589,MAF bZIP transcription factor A [Source:HGNC Symbol;Acc:HGNC:23145],1.073,L243,L243 up,2,CLIP up,2,plasmaMembrane,other
+ENSG00000183150,NM_006143,G protein-coupled receptor 19 [Source:HGNC Symbol;Acc:HGNC:4473],-1.897,L243,L243 down,2,-,0,plasmaMembrane,G-proteincoupledreceptor
+ENSG00000186318,NM_012104,beta-secretase 1 [Source:HGNC Symbol;Acc:HGNC:933],2.285,L243,L243 up,2,CLIP up,3,cytoplasm,peptidase
+ENSG00000187801,NM_023070,ZFP69 zinc finger protein B [Source:HGNC Symbol;Acc:HGNC:28053],1.153,L243,-,0,CLIP up,2,nucleus,other
+ENSG00000187912,NM_207390,C-type lectin domain containing 17A [Source:HGNC Symbol;Acc:HGNC:34520],1.795,L243,L243 up,3,CLIP up,2,unknown,other
+ENSG00000196313,NM_172020,POM121 transmembrane nucleoporin [Source:HGNC Symbol;Acc:HGNC:19702],1.218,L243,L243 up,3,CLIP up,2,nucleus,kinase
+ENSG00000196449,NM_024640,yrdC N6-threonylcarbamoyltransferase domain containing [Source:HGNC Symbol;Acc:HGNC:28905],1.135,CLIP,L243 up,3,-,0,unknown,other
+ENSG00000196456,NM_173680,zinc finger protein 775 [Source:HGNC Symbol;Acc:HGNC:28501],1.834,CLIP,L243 up,2,CLIP up,2,unknown,other
+ENSG00000196531,NM_005594,nascent polypeptide-associated complex alpha subunit [Source:HGNC Symbol;Acc:HGNC:7629],1.298,L243,L243 up,3,CLIP up,2,nucleus,transcriptionregulator
+ENSG00000196961,NM_014203,adaptor related protein complex 2 alpha 1 subunit [Source:HGNC Symbol;Acc:HGNC:561],1.845,L243,L243 up,3,CLIP up,2,cytoplasm,transporter
+ENSG00000198363,NM_004318,aspartate beta-hydroxylase [Source:HGNC Symbol;Acc:HGNC:757],2.653,L243,L243 up,3,CLIP up,3,cytoplasm,enzyme
+ENSG00000198429,NM_021915,zinc finger protein 69 [Source:HGNC Symbol;Acc:HGNC:13138],1.028,L243,L243 up,2,CLIP up,1,nucleus,other
+ENSG00000198723,NM_198534,testis expressed 45 [Source:HGNC Symbol;Acc:HGNC:24745],2.591,CLIP,L243 up,2,CLIP up,3,unknown,other
+ENSG00000198829,NM_033050,succinate receptor 1 [Source:HGNC Symbol;Acc:HGNC:4542],1.969,CLIP,L243 up,2,CLIP up,1,plasmaMembrane,G-proteincoupledreceptor
+ENSG00000204120,NM_015575,GRB10 interacting GYF protein 2 [Source:HGNC Symbol;Acc:HGNC:11960],0.96,L243,L243 up,3,CLIP up,1,unknown,other
+ENSG00000213516,NM_019610,"RNA binding motif protein, X-linked like 1 [Source:HGNC Symbol;Acc:HGNC:25073]",1.013,L243,-,0,CLIP up,2,unknown,enzyme
+ENSG00000214063,NM_003271,tetraspanin 4 [Source:HGNC Symbol;Acc:HGNC:11859],1.036,L243,L243 up,3,-,0,plasmaMembrane,other
+ENSG00000215193,NM_017929,peroxisomal biogenesis factor 26 [Source:HGNC Symbol;Acc:HGNC:22965],1.424,L243,L243 up,2,CLIP up,1,cytoplasm,other
+ENSG00000215644,NM_000160,glucagon receptor [Source:HGNC Symbol;Acc:HGNC:4192],2.44,L243,L243 up,3,CLIP up,2,plasmaMembrane,G-proteincoupledreceptor
+ENSG00000221886,NM_022090,zinc finger BED-type containing 8 [Source:HGNC Symbol;Acc:HGNC:30804],2.225,L243,L243 up,2,CLIP up,1,unknown,other
+ENSG00000241563,NM_001302,cortistatin [Source:HGNC Symbol;Acc:HGNC:2257],1.937,CLIP,L243 up,2,CLIP up,2,extracellularSpace,other
+ENSG00000250479,NM_213720,coiled-coil-helix-coiled-coil-helix domain containing 10 [Source:HGNC Symbol;Acc:HGNC:15559],1.081,L243,L243 up,2,CLIP up,2,unknown,other
+ENSG00000273526,NM_012314,"killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 4 [Source:HGNC Symbol;Acc:HGNC:6336]",1.273,L243,L243 up,4,CLIP up,1,plasmaMembrane,other
+ENSG00000273607,NM_213720,coiled-coil-helix-coiled-coil-helix domain containing 10 [Source:HGNC Symbol;Acc:HGNC:15559],1.081,L243,L243 up,2,CLIP up,2,unknown,other
+ENSG00000274145,NM_031430,Rab interacting lysosomal protein [Source:HGNC Symbol;Acc:HGNC:30266],1.63,L243,L243 up,1,CLIP up,2,nucleus,other
+ENSG00000274406,NM_012314,"killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 4 [Source:HGNC Symbol;Acc:HGNC:6336]",1.273,L243,L243 up,4,CLIP up,1,plasmaMembrane,other
+ENSG00000274947,NM_012314,"killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 4 [Source:HGNC Symbol;Acc:HGNC:6336]",1.273,L243,L243 up,4,CLIP up,1,plasmaMembrane,other
+ENSG00000274957,NM_012314,"killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 4 [Source:HGNC Symbol;Acc:HGNC:6336]",1.273,L243,L243 up,4,CLIP up,1,plasmaMembrane,other
+ENSG00000275353,NM_012314,"killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 4 [Source:HGNC Symbol;Acc:HGNC:6336]",1.273,L243,L243 up,4,CLIP up,1,plasmaMembrane,other
+ENSG00000275731,NM_012314,"killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 4 [Source:HGNC Symbol;Acc:HGNC:6336]",1.273,L243,L243 up,4,CLIP up,1,plasmaMembrane,other
+ENSG00000276154,NM_012314,"killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 4 [Source:HGNC Symbol;Acc:HGNC:6336]",1.273,L243,L243 up,4,CLIP up,1,plasmaMembrane,other
+ENSG00000276395,NM_012314,"killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 4 [Source:HGNC Symbol;Acc:HGNC:6336]",1.273,L243,L243 up,4,CLIP up,1,plasmaMembrane,other
+ENSG00000276634,NM_012314,"killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 4 [Source:HGNC Symbol;Acc:HGNC:6336]",1.273,L243,L243 up,4,CLIP up,1,plasmaMembrane,other
+ENSG00000276885,NM_012314,"killer cell immunoglobulin like receptor, two Ig domains and short cytoplasmic tail 4 [Source:HGNC Symbol;Acc:HGNC:6336]",1.273,L243,L243 up,4,CLIP up,1,plasmaMembrane,other
+ENSG00000277276,NM_023112,"OTU deubiquitinase, ubiquitin aldehyde binding 2 [Source:HGNC Symbol;Acc:HGNC:20351]",1.535,L243,L243 up,2,CLIP up,3,unknown,other
+ENSG00000283104,NM_017827,"seryl-tRNA synthetase 2, mitochondrial [Source:HGNC Symbol;Acc:HGNC:17697]",1.986,L243,-,0,CLIP up,2,cytoplasm,enzyme
+ENSG00000204257,NM_006120,HLA-DMA,13.9,CLIP,-,NA,CLIP up,NA,NA,NA

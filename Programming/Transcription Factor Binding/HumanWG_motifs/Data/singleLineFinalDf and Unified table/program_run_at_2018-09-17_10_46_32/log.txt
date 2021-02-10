@@ -1,0 +1,15 @@
+Log for TFBSenrichr, run at 2018-09-17 10:46:32
+Running function loadLibraryAndData
+ arguments:
+
+loadLibraryAndData
+Running function loadLibraryAndData
+ arguments:
+
+loadLibraryAndDataRevamped
+MHCIPositiveSetPath
+Running function loadLibraryAndData
+ arguments:
+
+loadLibraryAndDataRevamped
+MHCIIPositiveSetPath

@@ -1,0 +1,3 @@
+Contains analysis of protein-protein interactions between viral proteins and (human) host proteins. 3 databases (Human Protein Interaction DataBase; Phisto, VirHostNet) were mined for these interactions.
+MHC pathway genes were overrepresented in these interactions (note, these interactions do not include MHC-viral peptide binding). Genes which are
+also bound to often by viral proteins are therefore somewhat more likely to be MHC pathway genes. See project report for details.

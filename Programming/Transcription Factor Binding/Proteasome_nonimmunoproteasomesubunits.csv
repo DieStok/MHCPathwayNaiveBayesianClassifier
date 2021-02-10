@@ -1,0 +1,28 @@
+HGNC ID	Approved Symbol	Approved Name	Status	Previous Symbols	Synonyms	Chromosome	Accession Numbers	RefSeq IDs	Gene Family Tag	Gene family description	Gene family ID
+22985	PSMA8	proteasome subunit alpha 8	Approved		MGC26605, PSMA7L	18q11.2	BC047355	NM_144662	PSM	Proteasome	690
+9542	PSMB5	proteasome subunit beta 5	Approved		X, MB1	14q11.2	D29011	NM_002797	PSM	Proteasome	690
+9543	PSMB6	proteasome subunit beta 6	Approved		Y, DELTA	17p13.2	BC000835	NM_002798	PSM	Proteasome	690
+9544	PSMB7	proteasome subunit beta 7	Approved			9q33.3	AJ420455	NM_002799	PSM	Proteasome	690
+9547	PSMC1	proteasome 26S subunit, ATPase 1	Approved		S4, p56	14q32.11	L02426	NM_002802	PSM	Proteasome	690
+9548	PSMC2	proteasome 26S subunit, ATPase 2	Approved		MSS1, S7, Nbla10058	7q22.1	D11094	NM_002803	PSM	Proteasome	690
+9549	PSMC3	proteasome 26S subunit, ATPase 3	Approved		TBP1, TBP-1	11p11.2	M34079	NM_002804	PSM	Proteasome	690
+9551	PSMC4	proteasome 26S subunit, ATPase 4	Approved	MIP224	TBP7, S6, MGC8570, MGC13687, MGC23214, TBP-7	19q13.11-q13.13	U27515	NM_006503	PSM	Proteasome	690
+9552	PSMC5	proteasome 26S subunit, ATPase 5	Approved		SUG1, p45/SUG, TBP10, p45, S8, TRIP1, SUG-1	17q23.3	L38810	NM_002805	PSM	Proteasome	690
+9553	PSMC6	proteasome 26S subunit, ATPase 6	Approved		p42	14q22.1		NM_002806	PSM	Proteasome	690
+9554	PSMD1	proteasome 26S subunit, non-ATPase 1	Approved		S1, P112, Rpn2	2q37.1	D44466		PSM	Proteasome	690
+9555	PSMD10	proteasome 26S subunit, non-ATPase 10	Approved		p28	Xq22.3	AB009619	NM_170750	PSM	Proteasome	690
+9556	PSMD11	proteasome 26S subunit, non-ATPase 11	Approved		S9, p44.5, MGC3844, Rpn6	17q11.2	AB003102	NM_002815	PSM	Proteasome	690
+9557	PSMD12	proteasome 26S subunit, non-ATPase 12	Approved		p55, Rpn5	17q24.2	AB003103	NM_002816, NM_174871	PSM	Proteasome	690
+9558	PSMD13	proteasome 26S subunit, non-ATPase 13	Approved		p40.5, Rpn9	11p15.5	AB009398	NM_002817	PSM	Proteasome	690
+16889	PSMD14	proteasome 26S subunit, non-ATPase 14	Approved		POH1, pad1, Rpn11	2q24.2	U86782	NM_005805	PSM	Proteasome	690
+9559	PSMD2	proteasome 26S subunit, non-ATPase 2	Approved		S2, P97, TRAP2, MGC14274, Rpn1	3q27.1	AK095245	NM_002808	PSM	Proteasome	690
+9560	PSMD3	proteasome 26S subunit, non-ATPase 3	Approved	TSTA2	S3, P58, Rpn3	17q21.1	D67025	NM_002809	PSM	Proteasome	690
+9561	PSMD4	proteasome 26S subunit, non-ATPase 4	Approved		S5A, AF-1, AF, Rpn10	1q21.3	U51007	NM_002810	PSM	Proteasome	690
+9563	PSMD5	proteasome 26S subunit, non-ATPase 5	Approved		S5B, KIAA0072	9q33.2	AK001065	NM_005047	PSM	Proteasome	690
+9564	PSMD6	proteasome 26S subunit, non-ATPase 6	Approved		S10, p44S10, KIAA0107, Rpn7	3p14.1	AF215935	NM_014814	PSM	Proteasome	690
+9565	PSMD7	proteasome 26S subunit, non-ATPase 7	Approved		S12, P40, MOV34, Rpn8	16q23.1	D50063	NM_002811	PSM	Proteasome	690
+9566	PSMD8	proteasome 26S subunit, non-ATPase 8	Approved		S14, Nin1p, p31, HIP6, HYPF, Rpn12	19q13.2	D38047	NM_002812	PSM	Proteasome	690
+9567	PSMD9	proteasome 26S subunit, non-ATPase 9	Approved		p27, Rpn4	12q24.31	AB003177	NM_002813	PSM	Proteasome	690
+9570	PSME3	proteasome activator subunit 3	Approved		Ki, PA28-gamma, REG-GAMMA, PA28G	17q21.31	U11292	NM_176863	PSM	Proteasome	690
+20635	PSME4	proteasome activator subunit 4	Approved		PA200, KIAA0077	2p16.2	D38521	XM_040158	PSM	Proteasome	690
+9571	PSMF1	proteasome inhibitor subunit 1	Approved		PI31	20p13	D88378	NM_178578	PSM	Proteasome	690

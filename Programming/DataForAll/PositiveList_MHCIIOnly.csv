@@ -1,0 +1,45 @@
+MHC1OR2,Process_classification,Gene_name_kegg,Ensembl_name,KO_definition/Ensembl_definition,Link,Ensembl_accession,Neefjes_accession,Subdivision types,Location of action
+2AND1,Transcription_factors,CIITA/C2TA/CIITAIV/MHC2TA/NLRA,CIITA,(RefSeq) class II major histocompatibility complex transactivator,http://www.kegg.jp/dbget-bin/www_bget?K08060 ,ENSG00000179583,NM_000246,MHC I and II,Transcription factor
+2,Endosome,IFI30,IFI30,"(RefSeq) IFI30, lysosomal thiol reductase",http://www.kegg.jp/dbget-bin/www_bget?hsa:10437 ,ENSG00000216490,,MHC II,Endosome
+2,Endoplasmatic Reticulum,CD74,CD74,(RefSeq) CD74 molecule,http://www.kegg.jp/dbget-bin/www_bget?hsa:972 ,ENSG00000019582,,MHC II,Endoplasmatic Reticulum
+2,Endoplasmatic Reticulum/Endosome,LGMN,LGMN,legumain [EC:3.4.22.34],http://www.kegg.jp/dbget-bin/www_bget?hsa:5641 ,ENSG00000100600,,MHC II,Endoplasmatic Reticulum/Endosome
+2,Endoplasmatic Reticulum/Endosome,CTSB,CTSB,(RefSeq) cathepsin B,http://www.kegg.jp/dbget-bin/www_bget?hsa:1508,ENSG00000164733,,MHC II,Endoplasmatic Reticulum/Endosome
+2,Endoplasmatic Reticulum,CTSL,CTSL,(RefSeq) cathepsin L,http://www.kegg.jp/dbget-bin/www_bget?hsa:1514,ENSG00000135047,,MHC II,Endoplasmatic Reticulum
+2,Endoplasmatic Reticulum,CTSS,CTSS,(RefSeq) cathepsin S,http://www.kegg.jp/dbget-bin/www_bget?hsa:1520,ENSG00000163131,,MHC II,Endoplasmatic Reticulum
+2,MHC,HLA-DMA,HLA-DMA,"(RefSeq) major histocompatibility complex, class II, DM alpha",,ENSG00000204257,,MHC II,MHC II subunit
+2,MHC,HLA-DMB,HLA-DMB,"(RefSeq) major histocompatibility complex, class II, DM beta",,ENSG00000242574,,MHC II,MHC II subunit
+2,MHC,HLA-DOA,HLA-DOA,"(RefSeq) major histocompatibility complex, class II, DO alpha",http://www.kegg.jp/dbget-bin/www_bget?hsa:3111 ,ENSG00000204252,,MHC II,MHC II subunit
+2,MHC,HLA-DOB,HLA-DOB,"(RefSeq) major histocompatibility complex, class II, DO beta",http://www.kegg.jp/dbget-bin/www_bget?hsa:3112,ENSG00000241106,,MHC II,MHC II subunit
+2,MHC,HLA-DPA1,HLA-DPA1,"(RefSeq) major histocompatibility complex, class II, DP alpha 1",http://www.kegg.jp/dbget-bin/www_bget?hsa:3113 ,ENSG00000231389,,MHC II,MHC II subunit
+2,MHC,HLA-DPB1,HLA-DPB1,"(RefSeq) major histocompatibility complex, class II, DP beta 1",http://www.kegg.jp/dbget-bin/www_bget?hsa:3115 ,ENSG00000223865,,MHC II,MHC II subunit
+2,MHC,HLA-DQA1,HLA-DQA1,"(RefSeq) major histocompatibility complex, class II, DQ alpha 1",http://www.kegg.jp/dbget-bin/www_bget?hsa:3117 ,ENSG00000196735,,MHC II,MHC II subunit
+2,MHC,HLA-DQA2,HLA-DQA2,"(RefSeq) major histocompatibility complex, class II, DQ alpha 2",http://www.kegg.jp/dbget-bin/www_bget?hsa:3118 ,ENSG00000237541,,MHC II,MHC II subunit
+2,MHC,HLA-DQB1,HLA-DQB1,"(RefSeq) major histocompatibility complex, class II, DQ beta 1",http://www.kegg.jp/dbget-bin/www_bget?hsa:3119 ,ENSG00000179344,,MHC II,MHC II subunit
+2,MHC,HLA-DRA,HLA-DRA,"(RefSeq) major histocompatibility complex, class II, DR alpha",http://www.kegg.jp/dbget-bin/www_bget?hsa:3122 ,ENSG00000204287,,MHC II,MHC II subunit
+2,MHC,HLA-DRB1,HLA-DRB1,"(RefSeq) major histocompatibility complex, class II, DR beta 1",http://www.kegg.jp/dbget-bin/www_bget?hsa:3123 ,ENSG00000196126,,MHC II,MHC II subunit
+2,MHC,HLA-DRB3,HLA-DRB3,"(RefSeq) major histocompatibility complex, class II, DR beta 3",www.kegg.jp/dbget-bin/www_bget?hsa:3125 ,ENSG00000196101,,MHC II,MHC II subunit
+2,MHC,HLA-DRB4,HLA-DRB4,"(RefSeq) major histocompatibility complex, class II, DR beta 4",http://www.kegg.jp/dbget-bin/www_bget?hsa:3126 ,ENSG00000227826,,MHC II,MHC II subunit
+2,MHC,HLA-DRB5,HLA-DRB5,"(RefSeq) major histocompatibility complex, class II, DR beta 5",http://www.kegg.jp/dbget-bin/www_bget?hsa:3127 ,ENSG00000198502,,MHC II,MHC II subunit
+2,Neefjens_Transcription_MHCII_influencing,,MAPK1,mitogen-activated protein kinase 1 [Source:HGNC Symbol;Acc:HGNC:6871],,ENSG00000100030,NM_002745,MHC II,Neefjens_Transcription_MHCII_influencing
+2,Neefjens_Transcription_MHCII_influencing,,CNOT2,CCR4-NOT transcription complex subunit 2 [Source:HGNC Symbol;Acc:HGNC:7878],,ENSG00000111596,NM_014515,MHC II,Neefjens_Transcription_MHCII_influencing
+2,Neefjens_Transcription_MHCII_influencing,,CNOT1,CCR4-NOT transcription complex subunit 1 [Source:HGNC Symbol;Acc:HGNC:7877],,ENSG00000125107,NM_016284,MHC II,Neefjens_Transcription_MHCII_influencing
+2,Neefjens_Transcription_MHCII_influencing,,PLEKHA4,pleckstrin homology domain containing A4 [Source:HGNC Symbol;Acc:HGNC:14339],,ENSG00000105559,NM_020904,MHC II,Neefjens_Transcription_MHCII_influencing
+2,Neefjens_Transcription_MHCII_influencing,,RMND5B,required for meiotic nuclear division 5 homolog B [Source:HGNC Symbol;Acc:HGNC:26181],,ENSG00000145916,NM_022762,MHC II,Neefjens_Transcription_MHCII_influencing
+2,Neefjens_Transcription_MHCII_influencing,,EFHD2,EF-hand domain family member D2 [Source:HGNC Symbol;Acc:HGNC:28670],,ENSG00000142634,NM_024329,MHC II,Neefjens_Transcription_MHCII_influencing
+2,Neefjens_Transcription_MHCII_influencing,,CDCA3,cell division cycle associated 3 [Source:HGNC Symbol;Acc:HGNC:14624],,ENSG00000111665,NM_031299,MHC II,Neefjens_Transcription_MHCII_influencing
+2,Neefjens_Transcription_MHCII_influencing,,KAT5,lysine acetyltransferase 5 [Source:HGNC Symbol;Acc:HGNC:5275],,ENSG00000172977,NM_182710,MHC II,Neefjens_Transcription_MHCII_influencing
+2,Neefjens_Dendritic_Localisation_MHCII_influencing,,CD274/PDCD1LG1,CD274 molecule [Source:HGNC Symbol;Acc:HGNC:17635],,ENSG00000120217,NM_014143,MHC II,Neefjens_Dendritic_Localisation_MHCII_influencing
+2,Neefjens_Dendritic_Localisation_MHCII_influencing,,GPATCH4,G-patch domain containing 4 [Source:HGNC Symbol;Acc:HGNC:25982],,ENSG00000160818,NM_015590,MHC II,Neefjens_Dendritic_Localisation_MHCII_influencing
+2,Neefjens_Dendritic_Localisation_MHCII_influencing,,GOLPH3L/GPP34R,golgi phosphoprotein 3 like [Source:HGNC Symbol;Acc:HGNC:24882],,ENSG00000143457,NM_018178,MHC II,Neefjens_Dendritic_Localisation_MHCII_influencing
+2,Neefjens_Dendritic_Localisation_MHCII_influencing,,ARL14/ARF7,ADP ribosylation factor like GTPase 14 [Source:HGNC Symbol;Acc:HGNC:22974],,ENSG00000179674,NM_025047,MHC II,Neefjens_Dendritic_Localisation_MHCII_influencing
+2,Neefjens_Dendritic_Localisation_MHCII_influencing,,SEC13/SEC13L1,"SEC13 homolog, nuclear pore and COPII coat complex component [Source:HGNC Symbol;Acc:HGNC:10697]",,ENSG00000157020,NM_030673,MHC II,Neefjens_Dendritic_Localisation_MHCII_influencing
+2,Neefjens_Dendritic_Localisation_MHCII_influencing,,MAFA,MAF bZIP transcription factor A [Source:HGNC Symbol;Acc:HGNC:23145],,ENSG00000182759,NM_201589,MHC II,Neefjens_Dendritic_Localisation_MHCII_influencing
+2,Neefjens_Literature_Model,MARCH1,membrane associated ring-CH-type finger 1 [Source:HGNC Symbol;Acc:HGNC:26077],,,ENSG00000145416,,MHC II,Neefjens_Literature_Model
+2,Neefjens_Literature_Model,CDC42,cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736],,,ENSG00000070831,,MHC II,Neefjens_Literature_Model
+2,Neefjens_Literature_Model,PTGES2,prostaglandin E synthase 2 [Source:HGNC Symbol;Acc:HGNC:17822],,,ENSG00000148334,,MHC II,Neefjens_Literature_Model
+2,Neefjens_Literature_Model,AP2A1,adaptor related protein complex 2 alpha 1 subunit [Source:HGNC Symbol;Acc:HGNC:561],,,ENSG00000196961,,MHC II,Neefjens_Literature_Model
+2,Neefjens_Literature_Model,RILP,Rab interacting lysosomal protein [Source:HGNC Symbol;Acc:HGNC:30266],,,ENSG00000167705,,MHC II,Neefjens_Literature_Model
+2,Neefjens_Literature_Model,CXCR4,C-X-C motif chemokine receptor 4 [Source:HGNC Symbol;Acc:HGNC:2561],,,ENSG00000121966,,MHC II,Neefjens_Literature_Model
+2,Neefjens_Literature_Model,IL10RA,interleukin 10 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:5964],,,ENSG00000110324,,MHC II,Neefjens_Literature_Model
+2,Neefjens_Literature_Model,IL23A,interleukin 23 subunit alpha [Source:HGNC Symbol;Acc:HGNC:15488],,,ENSG00000110944,,MHC II,Neefjens_Literature_Model
+2,Neefjens_Literature_Model,STAT6,signal transducer and activator of transcription 6 [Source:HGNC Symbol;Acc:HGNC:11368],,,ENSG00000166888,,MHC II,Neefjens_Literature_Model

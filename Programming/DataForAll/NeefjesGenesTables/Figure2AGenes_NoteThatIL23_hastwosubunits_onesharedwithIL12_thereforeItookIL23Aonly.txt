@@ -1,0 +1,12 @@
+Gene name,Gene description,Gene stable ID
+MARCH1,membrane associated ring-CH-type finger 1 [Source:HGNC Symbol;Acc:HGNC:26077],ENSG00000145416
+IL27RA,interleukin 27 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:17290],ENSG00000104998
+CDC42,cell division cycle 42 [Source:HGNC Symbol;Acc:HGNC:1736],ENSG00000070831
+PTGES2,prostaglandin E synthase 2 [Source:HGNC Symbol;Acc:HGNC:17822],ENSG00000148334
+RILP,Rab interacting lysosomal protein [Source:HGNC Symbol;Acc:HGNC:30266],ENSG00000274145
+AP2A1,adaptor related protein complex 2 alpha 1 subunit [Source:HGNC Symbol;Acc:HGNC:561],ENSG00000196961
+RILP,Rab interacting lysosomal protein [Source:HGNC Symbol;Acc:HGNC:30266],ENSG00000167705
+CXCR4,C-X-C motif chemokine receptor 4 [Source:HGNC Symbol;Acc:HGNC:2561],ENSG00000121966
+IL10RA,interleukin 10 receptor subunit alpha [Source:HGNC Symbol;Acc:HGNC:5964],ENSG00000110324
+IL23A,interleukin 23 subunit alpha [Source:HGNC Symbol;Acc:HGNC:15488],ENSG00000110944
+STAT6,signal transducer and activator of transcription 6 [Source:HGNC Symbol;Acc:HGNC:11368],ENSG00000166888

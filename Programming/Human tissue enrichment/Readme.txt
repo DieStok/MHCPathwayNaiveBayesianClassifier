@@ -1,0 +1,3 @@
+Uses immunohistochemistry data on specific human tissues from The Human Protein Atlas to check for high expression in immune-related tissues (lymph nodes, lung macrophages, etc.).
+MHC pathway genes are more highly expressed in these tissues, so being immunohistochemically present in immune tissues is one of the signatures for MHC pathway-ness. For documentation
+of the methods, see the methods section of the project report under ImportantDocumentation in this repo.

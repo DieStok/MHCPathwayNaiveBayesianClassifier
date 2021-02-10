@@ -1,0 +1,3 @@
+This directory contains data, scripts, and description of workflow for gene regulation upon activation of M1 macrophages. Genes co-upregulated or co-downregulated with 
+known MHC genes are more likely to be involved in the MHC pathway themselves. The analysis uses STEM to generate gene expression change profiles, similar to the
+approach used in the paper this data is from (Derlindati, E. et al. Transcriptomic analysis of human polarized macrophages: More than one role of alternative activation? PLoS One 10, 1 17 (2015).)

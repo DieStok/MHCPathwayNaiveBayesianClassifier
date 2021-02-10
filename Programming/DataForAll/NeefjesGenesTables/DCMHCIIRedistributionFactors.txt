@@ -1,0 +1,7 @@
+Gene name,Gene description,Gene stable ID,RefSeq mRNA ID
+CD274/PDCD1LG1,CD274 molecule [Source:HGNC Symbol;Acc:HGNC:17635],ENSG00000120217,NM_014143
+GPATCH4,G-patch domain containing 4 [Source:HGNC Symbol;Acc:HGNC:25982],ENSG00000160818,NM_015590
+GOLPH3L/GPP34R,golgi phosphoprotein 3 like [Source:HGNC Symbol;Acc:HGNC:24882],ENSG00000143457,NM_018178
+ARL14/ARF7,ADP ribosylation factor like GTPase 14 [Source:HGNC Symbol;Acc:HGNC:22974],ENSG00000179674,NM_025047
+SEC13/SEC13L1,"SEC13 homolog, nuclear pore and COPII coat complex component [Source:HGNC Symbol;Acc:HGNC:10697]",ENSG00000157020,NM_030673
+MAFA,MAF bZIP transcription factor A [Source:HGNC Symbol;Acc:HGNC:23145],ENSG00000182759,NM_201589

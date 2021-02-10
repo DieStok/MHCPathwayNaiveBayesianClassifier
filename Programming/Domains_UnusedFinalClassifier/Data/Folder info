@@ -1,0 +1,3 @@
+I did some domain enrichment studies, but as it turned out, some of the domains that BioMart had were not actually in use anymore on PFAM (deprecated) and the focus soon turned to other data sets). THe strangely named TF-files (.rds files) are because I recycled the TFBS enrichment script to instead work for PFAM domains per gene. 
+
+Data here not included in final classifier.
