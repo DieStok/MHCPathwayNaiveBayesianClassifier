@@ -1,2 +1,2 @@
 This data uses Z-scores from a large-scale MHC II-cell surface expression-influencing screen. (i.e. genes that significantly altered amount of MHC II on the surface of cells when knocked down using siRNA were identified).
-See [project report](ImportantDocumentation/Writing/FinalReport_DieterStoker4159853_DiscoveringnovelMHCpathwaycandidatesusinganaïveBayesianclassifier.pdf) for details. 
+See [project report](ImportantDocumentation/Writing/FinalReport_DieterStoker4159853_DiscoveringnovelMHCpathwaycandidatesusinganaïveBayesianclassifier.pdf) for details, or look at [the paper that describes this screen](https://www.cell.com/fulltext/S0092-8674(11)00300-X).
